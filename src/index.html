@@ -6,9 +6,27 @@
   </head>
   <body>
 
-    <responsive-child>
-      <!-- content goes here -->
-    </responsive-child>
+    <section class="recipe">
+      <%= markdown.turkey %>
+    </section>
+    <section class="recipe">
+      <%= markdown.gravy %>
+    </section>
+    <section class="recipe">
+      <%= markdown.beans %>
+    </section>
+    <section class="recipe">
+      <%= markdown.potatoes %>
+    </section>
+    <section class="recipe">
+      <%= markdown.cornbread %>
+    </section>
+    <section class="recipe">
+      <%= markdown.gel %>
+    </section>
+    <section class="recipe">
+      <%= markdown.pie %>
+    </section>
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>

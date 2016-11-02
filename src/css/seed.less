@@ -1,1 +1,39 @@
 @import "seattletimes";
+
+body {
+  max-width: 960px;
+  margin: auto;
+  padding: 0 10px;
+}
+
+.recipe {
+  background: @df-off-white;
+  border: 1px solid @df-light-gray;
+  padding: 50px 60px;
+
+  .title {
+    font-weight: bold;
+    font-size: 28px;
+    font-family: @df-sans;
+  }
+  .credit {
+    font-family: @df-sans;
+    font-style: italic;
+    padding-top: 10px;
+  }
+}
+
+ol li {
+  padding-bottom: 19px;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.factbox {
+  background: @df-middle-gray;
+  color: white;
+  padding: 20px 30px;
+  font-size: 16px;
+}
