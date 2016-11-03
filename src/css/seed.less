@@ -1,24 +1,33 @@
 @import "seattletimes";
 
-body {
+.inner {
   max-width: 960px;
   margin: auto;
   padding: 0 10px;
+}
+
+.main-nav {
+  margin-bottom: 20px;
 }
 
 .recipe {
   background: @df-off-white;
   border: 1px solid @df-light-gray;
   padding: 50px 60px;
+  margin-bottom: 60px;
 
   .title {
     font-weight: bold;
     font-size: 28px;
     font-family: @df-sans;
+    color: maroon;
   }
   .credit {
     font-family: @df-sans;
     font-style: italic;
+    padding-top: 10px;
+  }
+  .desc {
     padding-top: 10px;
   }
 }
@@ -36,4 +45,5 @@ ol li {
   color: white;
   padding: 20px 30px;
   font-size: 16px;
+  margin-top: 10px;
 }
