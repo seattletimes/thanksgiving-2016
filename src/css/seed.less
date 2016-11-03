@@ -11,14 +11,11 @@
 }
 
 .recipe {
-  background: @df-off-white;
-  border: 1px solid @df-light-gray;
-  padding: 50px 60px;
   margin-bottom: 60px;
 
   .title {
     font-weight: bold;
-    font-size: 28px;
+    font-size: 32px;
     font-family: @df-sans;
     color: maroon;
   }
@@ -28,8 +25,40 @@
     padding-top: 10px;
   }
   .desc {
-    padding-top: 10px;
+    padding-top: 15px;
   }
+}
+
+.tabs {
+  margin-top: 20px;
+
+  div {
+    display: inline-block;
+    background: @df-light-gray;
+    font-family: @df-sans;
+    font-weight: bold;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 4px 4px 0 0;
+
+    &:hover {
+      background: maroon;
+      color: white;
+    }
+
+    &:first-child {
+      margin-right: 10px;
+    }
+  }
+}
+
+.goforit, .simplify {
+  background: @df-off-white;
+  border: 1px solid @df-light-gray;
+  padding: 40px
+}
+.simplify {
+  display: none;
 }
 
 ol li {
@@ -41,6 +70,7 @@ ol li {
 }
 
 .factbox {
+  font-family: @df-sans;
   background: @df-middle-gray;
   color: white;
   padding: 20px 30px;
