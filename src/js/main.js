@@ -31,22 +31,33 @@ qsa(".fa-shopping-basket").forEach(function(b) {
       var ingredients = ingredientData.filter(function(i) {
         return i.recipe == r;
       })
-      allIngredients += ingredients;
-      console.log(allIngredients)
+      allIngredients = allIngredients.concat(ingredients);
     });
-    document.querySelector(".basket").innerHTML += allIngredients;
+    allIngredients.forEach(function(i) {
+      var item = document.createElement("li");
+      if (i.amount) i.ingredient = i.ingredient.toLowerCase();
+
+      var language = "";
+      if (i.amount) language += i.amount + " ";
+      if (i.unit) language += i.unit + " ";
+      if (i.ingredient) language += i.ingredient;
+      item.innerHTML = language;
+      document.querySelector(".basket ul").appendChild(item);
+
+      if (document.querySelector(".empty")) {
+        document.querySelector(".empty").classList.add("hidden");
+      }
+    });
   });
 });
 
 qsa(".menu a").forEach(function(a) {
   a.addEventListener("click", function(e) {
-    console.log("hello")
     var href = this.getAttribute("href");
     if (href.indexOf("#") != 0) return;
     var section = document.querySelector(href);
     if (!section) return;
     e.preventDefault();
-    console.log(animateScroll)
     animateScroll(section);
   });
 });

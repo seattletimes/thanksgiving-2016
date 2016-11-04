@@ -30,6 +30,22 @@ a {
   padding-bottom: 40px;
 }
 
+.fa-shopping-basket {
+  cursor: pointer;
+}
+.basket {
+  padding-bottom: 60px;
+
+  .empty {
+    font-style: italic;
+    padding-top: 10px;
+
+    &.hidden {
+      display: none;
+    }
+  }
+}
+
 .left-rail {
   width: 65%;
   display: inline-block;
@@ -55,19 +71,25 @@ a {
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
+
+  &:hover {
+    background: @df-light-gray;
+    color: @df-dark-gray;
+  }
+}
+
+.title {
+  font-weight: bold;
+  font-size: 32px;
+  font-family: @df-sans;
+  color: maroon;
+  margin-top: 25px;
 }
 
 .recipe {
   margin-bottom: 60px;
 
-  .title {
-    font-weight: bold;
-    font-size: 32px;
-    font-family: @df-sans;
-    color: maroon;
-    margin-top: 25px;
-  }
   .credit {
     font-family: @df-sans;
     font-style: italic;
@@ -86,9 +108,12 @@ a {
     background: @df-light-gray;
     font-family: @df-sans;
     font-weight: bold;
-    padding: 5px 15px;
+    font-size: 16px;
+    padding: 8px 15px 6px 15px;
     cursor: pointer;
+    text-transform: uppercase;
     border-radius: 4px 4px 0 0;
+    letter-spacing: 0.02em;
 
     .fa-angle-down {
       padding-left: 4px;
