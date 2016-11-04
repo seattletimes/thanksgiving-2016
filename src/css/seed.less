@@ -12,6 +12,26 @@ a {
   &:hover {
     color: white;
   }
+
+  &.top {
+    cursor: pointer;
+    font-family: @df-sans;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    color: maroon;
+    margin-top: 20px;
+    display: block;
+    text-align: right;
+
+    .fa {
+      padding-right: 4px;
+    }
+
+    &:hover {
+      color: black;
+    }
+  }
 }
 
 .header {
@@ -27,7 +47,7 @@ a {
 .chatter {
   margin: auto;
   max-width: 800px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .basket-button {
@@ -86,7 +106,17 @@ input[type="checkbox"] {
 }
 
 .menu {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+  // text-align: center;
+  max-width: 800px;
+  margin: auto;
+
+  .pick {
+    font-weight: bold;
+    font-family: @df-sans;
+    padding-bottom: 8px;
+    font-size: 18px;
+  }
 }
 
 .button {

@@ -74,3 +74,13 @@ qsa(".menu a").forEach(function(a) {
     animateScroll(section);
   });
 });
+qsa("a.top").forEach(function(a) {
+  a.addEventListener("click", function(e) {
+    var href = this.getAttribute("href");
+    if (href.indexOf("#") != 0) return;
+    var section = document.querySelector(href);
+    if (!section) return;
+    e.preventDefault();
+    animateScroll(section);
+  });
+});
