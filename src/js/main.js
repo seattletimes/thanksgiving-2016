@@ -68,7 +68,7 @@ qsa(".basket-button input").forEach(function(b) {
   });
 });
 
-qsa(".menu a").forEach(function(a) {
+var scroll = function(a) {
   a.addEventListener("click", function(e) {
     var href = this.getAttribute("href");
     if (href.indexOf("#") != 0) return;
@@ -77,14 +77,14 @@ qsa(".menu a").forEach(function(a) {
     e.preventDefault();
     animateScroll(section);
   });
+}
+
+qsa(".menu a").forEach(function(a) {
+  scroll(a);
 });
 qsa("a.top").forEach(function(a) {
-  a.addEventListener("click", function(e) {
-    var href = this.getAttribute("href");
-    if (href.indexOf("#") != 0) return;
-    var section = document.querySelector(href);
-    if (!section) return;
-    e.preventDefault();
-    animateScroll(section);
-  });
+  scroll(a);
+});
+qsa("a.basket-link").forEach(function(a) {
+  scroll(a);
 });

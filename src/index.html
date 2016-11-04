@@ -10,7 +10,7 @@
     <div id="top"></div>
     <%= t.include("./partials/_nav.html") %>
 
-    <div class="basket-link"><i class="fa fa-shopping-basket" aria-hidden="true"></i> VIEW BASKET</div>
+    <a href="#basket" class="basket-link"><div><i class="fa fa-shopping-basket" aria-hidden="true"></i> VIEW BASKET</div></a>
 
     <div class="header"><img src="./assets/header_cropped.jpg"></div>
     <div class="hed">The Imperfect Thanksgiving</div>
@@ -195,7 +195,7 @@
           <a class="top" href="#top"><i class="fa fa-long-arrow-up" aria-hidden="true"></i> Top</a>
         </section>
 
-        <div class="title">My Shopping Basket</div>
+        <div id="basket" class="title">My Shopping Basket</div>
         <div class="basket">
           <div class="empty">Select a recipe to begin filling your shopping basket.</div>
           <ul></ul>
