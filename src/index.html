@@ -9,104 +9,119 @@
 
     <%= t.include("./partials/_nav.html") %>
 
+    <div class="header"><img src="./assets/header.jpg"></div>
+    <div class="hed">The Imperfect Thanksgiving</div>
+    <div class="chatter">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu venenatis est. Vivamus a molestie mi. Nulla aliquam fermentum bibendum. Vivamus volutpat elit a maximus pretium. In sit amet dui mollis, volutpat quam eget, aliquam mi. Fusce bibendum, orci quis tincidunt mattis, metus velit laoreet sapien, sed volutpat libero risus at lectus.
+      <p><em>Photos by tktk</em>
+    </div>
+
     <div class="inner">
 
       <div class="menu">
-        <div class="button">Turkey</div>
-        <div class="button">Gravy</div>
-        <div class="button">Beans</div>
-        <div class="button">Potatoes</div>
-        <div class="button">Dressing</div>
-        <div class="button">Cranberries</div>
-        <div class="button">Pie</div>
+        <a href="#turkey"><div class="button">Turkey</div></a>
+        <a href="#gravy"><div class="button">Gravy</div></a>
+        <a href="#beans"><div class="button">Beans</div></a>
+        <a href="#potatoes"><div class="button">Potatoes</div></a>
+        <a href="#cornbread"><div class="button">Dressing</div></a>
+        <a href="#gel"><div class="button">Cranberries</div></a>
+        <a href="#pie"><div class="button">Pie</div></a>
       </div>
 
-      <div class="basket">
+      <div class="left-rail">
+        <div class="basket">
+        </div>
+
+        <section id="turkey" class="recipe">
+          <img src="./assets/turkey.jpg">
+          <div class="title">Spatchcocked Turkey</div>
+          <div class="credit">— Brady Williams, Canlis</div>
+          <div class="desc">One of the things many people dislike about turkey is that is often too dry — by the time the legs and thighs (the best part) are done cooking, the breast is overdone. Spatchcocking (also known as butterflying) a bird, by removing the backbone, will yield a juicier, crispier final product. And because you are exposing more surface area to direct heat, the turkey will cook in considerably less time — about 90 minutes versus a few hours.</div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.turkey1 %></div>
+          <div class="simplify"><%= markdown.turkey2 %></div>
+        </section>
+
+        <section id="gravy" class="recipe">
+          <img src="./assets/gravy.jpg">
+          <div class="title">Gravy</div>
+          <div class="credit">— Holly Smith, Cafe Juanita</div>
+          <div class="desc">Whether you choose to roast a chicken or a turkey (duck or goose!) this sauce works well for all.  I don’t love a starch thickened sauce personally, so I let the natural proteins in the stock and reduction do the work. It takes time but is easily done ahead. This sauce base could be made a month in advance and frozen or made a day ahead and refrigerated.</div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.gravy1 %></div>
+          <div class="simplify"><%= markdown.gravy2 %></div>
+        </section>
+
+        <section id="beans" class="recipe">
+          <img src="./assets/beans.jpg">
+          <div class="title">Heirloom Bean Cassoulet</div>
+          <div class="credit">— Maria Hines</div>
+          <div class="desc">Chef Maria Hines, owner of Tilth, Agrodolce and Young American Ale House, says this vegetarian dish has become the most sought-after recipe at Tilth, as even meat lovers fawn over it. The comment she hears most: “How can you say this is vegetarian when there is meat in here?” The meaty, chewy texture of the mushrooms combined with the smoky beans gives the dish the illusion of meat.</div>
+          <div class="desc"><em><strong>Note:</strong> People can buy the dish at Tilth over the holidays if they pre-order it two days in advance. We will send them home with instructions on how to heat and serve.</em></div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.beans1 %></div>
+          <div class="simplify"><%= markdown.beans2 %></div>
+        </section>
+
+        <section id="potatoes" class="recipe">
+          <img src="./assets/potatoes.jpg">
+          <div class="title">Soy-Glazed Potatoes</div>
+          <div class="credit">— Shota Nakajima, Naka</div>
+          <div class="desc">Shota Nakajima, chef/owner of Capitol Hill’s refined kaiseki restaurant Naka, provides this recipe that’s reminiscent of sweet potatoes but with a delicious, subtle complexity. A sticky, rich glaze made with soy sauce, sake and mirin makes the little Yukon Golds literally shine, and cooking them in the liquid that becomes the glaze gives them a lovely depth of flavor.</div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.potatoes1 %></div>
+          <div class="simplify"><%= markdown.potatoes2 %></div>
+        </section>
+
+        <section id="cornbread" class="recipe">
+          <img src="./assets/dressing.jpg">
+          <div class="title">Cornbread Dressing</div>
+          <div class="credit">— Edouardo Jordan, Salare</div>
+          <div class="desc">Edouardo Jordan, chef/owner of Salare in Ravenna, developed this recipe as an homage to his grandmother’s and mother’s cooking. He grew up on Jiffy cornbread, used in the “simplify” version of this recipe. But if you’d like to make it from scratch, he offers his recipe, which he’s spent years perfecting.</div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.cornbread1 %></div>
+          <div class="simplify"><%= markdown.cornbread2 %></div>
+        </section>
+
+        <section id="gel" class="recipe">
+          <div class="title">Cranberry gel</div>
+          <div class="credit">— Maximillian Petty, Eden Hill</div>
+          <div class="desc">For a fun and fancy twist on cranberry sauce, Maximillian Petty, chef at Eden Hill, likes to create a fluid gel to garnish a turkey plate. Make a gel, put it in a squeeze bottle, and decorate to your heart’s content. Note: Agar agar is a vegan gelling agent derived from seaweed. It comes in powder and flake forms, so follow the instructions on the back of the container to make the hard gel. </div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.gel1 %></div>
+          <div class="simplify"><%= markdown.gel2 %></div>
+        </section>
+
+        <section id="pie" class="recipe">
+          <img src="./assets/pie.jpg">
+          <div class="title">Cranberry pie or tart</div>
+          <div class="credit">— Kate McDermott, author of “Art of the Pie”</div>
+          <div class="desc">Whether you make it in pie form, or take the simpler approach and make the rustic tart, this cranberry filling is great for the fall when you are craving the bright taste of a sour cherry pie. Add pecans to this filling if you’d like, as well as some orange zest of liqueur, and serve it with champagne.</div>
+          <div class="tabs">
+            <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
+          </div>
+          <div class="shown goforit"><%= markdown.pie1 %></div>
+          <div class="simplify"><%= markdown.pie2 %></div>
+        </section>
       </div>
 
-      <section id="turkey" class="recipe">
-        <img src="./assets/turkey.jpg">
-        <div class="title">Spatchcocked Turkey</div>
-        <div class="credit">— Brady Williams, Canlis</div>
-        <div class="desc">One of the things many people dislike about turkey is that is often too dry — by the time the legs and thighs (the best part) are done cooking, the breast is overdone. Spatchcocking (also known as butterflying) a bird, by removing the backbone, will yield a juicier, crispier final product. And because you are exposing more surface area to direct heat, the turkey will cook in considerably less time — about 90 minutes versus a few hours.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.turkey1 %></div>
-        <div class="simplify"><%= markdown.turkey2 %></div>
-      </section>
-
-      <section id="gravy" class="recipe">
-        <img src="./assets/gravy.jpg">
-        <div class="title">Gravy</div>
-        <div class="credit">— Holly Smith, Cafe Juanita</div>
-        <div class="desc">Whether you choose to roast a chicken or a turkey (duck or goose!) this sauce works well for all.  I don’t love a starch thickened sauce personally, so I let the natural proteins in the stock and reduction do the work. It takes time but is easily done ahead. This sauce base could be made a month in advance and frozen or made a day ahead and refrigerated.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.gravy1 %></div>
-        <div class="simplify"><%= markdown.gravy2 %></div>
-      </section>
-
-      <section id="beans" class="recipe">
-        <img src="./assets/beans.jpg">
-        <div class="title">Heirloom Bean Cassoulet</div>
-        <div class="credit">— Maria Hines</div>
-        <div class="desc">Chef Maria Hines, owner of Tilth, Agrodolce and Young American Ale House, says this vegetarian dish has become the most sought-after recipe at Tilth, as even meat lovers fawn over it. The comment she hears most: “How can you say this is vegetarian when there is meat in here?” The meaty, chewy texture of the mushrooms combined with the smoky beans gives the dish the illusion of meat.</div>
-        <div class="factbox">Note: People can buy the dish at Tilth over the holidays if they pre-order it two days in advance. We will send them home with instructions on how to heat and serve.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.beans1 %></div>
-        <div class="simplify"><%= markdown.beans2 %></div>
-      </section>
-
-      <section id="potatoes" class="recipe">
-        <img src="./assets/potatoes.jpg">
-        <div class="title">Soy-Glazed Potatoes</div>
-        <div class="credit">— Shota Nakajima, Naka</div>
-        <div class="desc">Shota Nakajima, chef/owner of Capitol Hill’s refined kaiseki restaurant Naka, provides this recipe that’s reminiscent of sweet potatoes but with a delicious, subtle complexity. A sticky, rich glaze made with soy sauce, sake and mirin makes the little Yukon Golds literally shine, and cooking them in the liquid that becomes the glaze gives them a lovely depth of flavor.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.potatoes1 %></div>
-        <div class="simplify"><%= markdown.potatoes2 %></div>
-      </section>
-
-      <section id="cornbread" class="recipe">
-        <img src="./assets/dressing.jpg">
-        <div class="title">Cornbread Dressing</div>
-        <div class="credit">— Edouardo Jordan, Salare</div>
-        <div class="desc">Edouardo Jordan, chef/owner of Salare in Ravenna, developed this recipe as an homage to his grandmother’s and mother’s cooking. He grew up on Jiffy cornbread, used in the “simplify” version of this recipe. But if you’d like to make it from scratch, he offers his recipe, which he’s spent years perfecting.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.cornbread1 %></div>
-        <div class="simplify"><%= markdown.cornbread2 %></div>
-      </section>
-
-      <section id="gel" class="recipe">
-        <div class="title">Cranberry gel</div>
-        <div class="credit">— Maximillian Petty, Eden Hill</div>
-        <div class="desc">For a fun and fancy twist on cranberry sauce, Maximillian Petty, chef at Eden Hill, likes to create a fluid gel to garnish a turkey plate. Make a gel, put it in a squeeze bottle, and decorate to your heart’s content. Note: Agar agar is a vegan gelling agent derived from seaweed. It comes in powder and flake forms, so follow the instructions on the back of the container to make the hard gel. </div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.gel1 %></div>
-        <div class="simplify"><%= markdown.gel2 %></div>
-      </section>
-
-      <section id="pie" class="recipe">
-        <img src="./assets/pie.jpg">
-        <div class="title">Cranberry pie or tart</div>
-        <div class="credit">— Kate McDermott, author of “Art of the Pie”</div>
-        <div class="desc">Whether you make it in pie form, or take the simpler approach and make the rustic tart, this cranberry filling is great for the fall when you are craving the bright taste of a sour cherry pie. Add pecans to this filling if you’d like, as well as some orange zest of liqueur, and serve it with champagne.</div>
-        <div class="tabs">
-          <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
-        </div>
-        <div class="shown goforit"><%= markdown.pie1 %></div>
-        <div class="simplify"><%= markdown.pie2 %></div>
-      </section>
+      <div class="right-rail">
+        Teasers
+        <p>Teasers
+        <p>Teasers
+      </div>
     </div>
 
     <%= t.include("./partials/_navBottom.html") %>

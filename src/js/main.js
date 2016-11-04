@@ -3,6 +3,7 @@ require("./lib/social");
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
+var animateScroll = require("./lib/animateScroll");
 var qsa = require("./lib/qsa.js");
 
 qsa(".tabs div").forEach(function(t) {
@@ -34,5 +35,18 @@ qsa(".fa-shopping-basket").forEach(function(b) {
       console.log(allIngredients)
     });
     document.querySelector(".basket").innerHTML += allIngredients;
+  });
+});
+
+qsa(".menu a").forEach(function(a) {
+  a.addEventListener("click", function(e) {
+    console.log("hello")
+    var href = this.getAttribute("href");
+    if (href.indexOf("#") != 0) return;
+    var section = document.querySelector(href);
+    if (!section) return;
+    e.preventDefault();
+    console.log(animateScroll)
+    animateScroll(section);
   });
 });

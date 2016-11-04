@@ -1,13 +1,44 @@
 @import "seattletimes";
 
 .inner {
-  max-width: 960px;
+  max-width: 1200px;
   margin: auto;
   padding: 0 10px;
 }
 
-.main-nav {
-  margin-bottom: 20px;
+a {
+  color: white;
+
+  &:hover {
+    color: white;
+  }
+}
+
+.header {
+  text-align: center;
+}
+
+.hed {
+  font-size: 75px;
+  text-align: center;
+  font-weight: bold;
+  padding: 15px 0;
+}
+.chatter {
+  margin: auto;
+  max-width: 800px;
+  padding-bottom: 40px;
+}
+
+.left-rail {
+  width: 65%;
+  display: inline-block;
+}
+.right-rail {
+  width: 34%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 40px;
 }
 
 .menu {
@@ -35,7 +66,7 @@
     font-size: 32px;
     font-family: @df-sans;
     color: maroon;
-    margin-top: 15px;
+    margin-top: 25px;
   }
   .credit {
     font-family: @df-sans;
@@ -43,7 +74,7 @@
     padding-top: 10px;
   }
   .desc {
-    padding-top: 15px;
+    padding: 15px 0;
   }
 }
 
@@ -87,6 +118,10 @@
   padding: 40px;
   display: none;
 
+  p:first-child {
+    margin-top: 0;
+  }
+
   &.shown {
     display: block;
   }
@@ -105,6 +140,6 @@ ol li {
   background: @df-middle-gray;
   color: white;
   padding: 20px 30px;
-  font-size: 16px;
-  margin-top: 10px;
+  margin: 30px 40px;
+  font-size: 18px;
 }
