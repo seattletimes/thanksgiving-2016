@@ -1,4 +1,4 @@
-<strong>Rustic Cranberry Tart</strong>
+<p><div class="strong">Rustic Cranberry Tart</div></p>
  
 In France, these are known as gallettes; in Italy, crostata. The amount and kind of filling you put inside doesn’t have to be exact.
  
@@ -15,12 +15,12 @@ In France, these are known as gallettes; in Italy, crostata. The amount and kind
   <li>Egg wash: 1 egg white plus 1 tablespoon water, fork-beaten
 </ul>
 
-<strong>To make the filling:</strong>
+<div class="strong">To make the filling:</div>
 <ol>
   <li>Place 1 ½ cups of the cranberries in a food processor and pulse until they are slightly chopped. In a medium bowl, place the chopped and remaining whole cranberries, sugar, cornstarch, nutmeg, salt and zest or liqueur, and mix well.
 </ol>
  
-<strong>To assemble the tart:</strong>
+<div class="strong">To assemble the tart:</div>
 <ol>
   <li>Roll the dough out to about 14 inches (35 centimeters) in diameter and about a ¼-inch (.6-centimeter) thick and place on a parchment-covered sheet pan or cookie tin.
   <li>Spread pie filling in the middle of the dough, leaving a 2- to 3-inch (5- to 7-centimeter) border. 

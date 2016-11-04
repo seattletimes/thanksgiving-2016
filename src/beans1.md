@@ -2,7 +2,7 @@
 
 <em>Serves 8</em>
 
-<strong>For beans:</strong>
+<div class="strong">For beans:</div>
 <ul>
   <li>⅔ cup heirloom beans, dried (your choice)
   <li>⅔ cup heirloom beans, dried (a second variety of your choice)
@@ -16,7 +16,7 @@
   <li>¼-½ teaspoon liquid smoke (optional, only necessary if you don’t have a smoker)
 </ul>
  
-<strong>To prepare smoked heirloom beans:</strong>
+<div class="strong">To prepare smoked heirloom beans:</div>
 <ol>
   <li>Soak beans overnight, in separate bowls.
   <li>Cook them separately in deep pans with twice as much liquid to beans. You want to cook them separately because each variety will be a slightly different size and you want to ensure perfect doneness.
@@ -26,7 +26,7 @@
   <li>Note: The prepared beans will hold in the refrigerator for at least 5 days. Keep them in their cooking liquid, to keep them from drying out.
 </ol>
 
-<strong>For truffle butter:</strong>
+<div class="strong">For truffle butter:</div>
 <ul>
   <li>3 ½ ounces butter
   <li>1 ounce black truffle oil
@@ -40,7 +40,7 @@
   <li>Whip butter with a mixer, adding in truffle oil, truffle peelings, salt and pepper. 
 </ol>
 
-<strong>For finished dish:</strong>
+<div class="strong">For finished dish:</div>
 <ul>
   <li>¼ cup stale brioche
   <li>2 tablespoons canola oil
@@ -54,13 +54,13 @@
   <li>Black pepper
 </ul>
 
-<strong>To finish the dish:</strong>
+<div class="strong">To finish the dish:</div>
 <ol>
   <li>Dry out stale brioche in oven until crispy, then pulverize in a food processor. Set aside. 
   <li>Clean and saute the mushrooms in canola oil, shallot and garlic. Add parsley, chives, tomatoes and the beans. Saute the whole mixture with a little bit of the reserved bean liquid, and the truffle butter. 
 </ol>
 
-<strong>For garnish:</strong>
+<div class="strong">For garnish:</div>
 <ul>
   <li>1 ounce truffle oil
   <li>Parsley

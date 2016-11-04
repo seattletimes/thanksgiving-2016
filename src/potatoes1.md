@@ -1,12 +1,8 @@
-Links:
-epicurious.com’s Gourmet recipe
-http://www.epicurious.com/recipes/food/views/dashi-japanese-sea-stock-103413
-
 <em>Serves 12</em>
 
 <ul>
   <li>2 ⅔ pounds small Yukon Gold potatoes (golf-ball sized)
-  <li>5 cups dashi (see epicurious.com’s Gourmet recipe)
+  <li>5 cups dashi (see epicurious.com’s <a href="http://www.epicurious.com/recipes/food/views/dashi-japanese-sea-stock-103413">Gourmet recipe</a>)
   <li>⅓ cup sake
   <li>⅓ cup sugar
   <li>⅓ cup soy sauce

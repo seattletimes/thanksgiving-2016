@@ -1,7 +1,3 @@
-Links:
-mirin or substitute
-http://www.seattletimes.com/life/food-drink/what-can-substitute-for-mirin/
-
 <em>Serves 12</em>
 
 <ul>
@@ -10,7 +6,7 @@ http://www.seattletimes.com/life/food-drink/what-can-substitute-for-mirin/
   <li>⅓ cup sake or substitute white wine
   <li>⅓ cup sugar
   <li>⅓ cup soy sauce
-  <li>⅓ cup mirin or substitute dry sherry, sweet marsala, or white wine with ¼ teaspoon sugar
+  <li>⅓ cup mirin or <a href="http://www.seattletimes.com/life/food-drink/what-can-substitute-for-mirin/">substitute</a> dry sherry, sweet marsala, or white wine with ¼ teaspoon sugar
   <li>⅓ cup butter
 </ul>
 

@@ -1,6 +1,6 @@
 <em>Serves 6-8</em>
  
-<strong>For the chicken brodo base:</strong>
+<div class="strong">For the chicken brodo base:</div>
 <ul>
   <li>1 gallon chicken stock, strained (this can be a homemade stock or store-bought; no bouillon!)
   <li>2 bone-in chicken thighs, skin and fat removed
@@ -18,7 +18,7 @@
   <li>This sauce can be refrigerated or frozen at this stage, or turned into your finished sauce.
 </ol>
  
-<strong>For the finished gravy:</strong>
+<div class="strong">For the finished gravy:</div>
 <ul>
   <li>1 medium shallot, finely minced
   <li>1 cup Marsala, red wine, dry sherry or anything of your choosing (this could be a fruit juice; if substituting a liquor like bourbon, cut the quantity in half)

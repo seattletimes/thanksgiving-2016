@@ -7,7 +7,7 @@ We always brine our birds first, which is the process of creating a salt solutio
   <li>Assorted vegetables, such as celery, onion, carrot (optional)
 </ul>
 
-<strong>For brining:</strong>
+<div class="strong">For brining:</div>
 <ol>
   <li>We use a 3 percent salt and 1.5 percent sugar by weight ratio. More simply put, for every 100 grams of water, we dissolve 3 grams of salt and 1.5 grams of sugar at a boil, then cool the solution.
  
@@ -16,7 +16,7 @@ We always brine our birds first, which is the process of creating a salt solutio
   <li>Pull the turkey a few hours ahead of roasting and place on the kitchen counter to allow the turkey to temper, which will allow more even cooking.
 </ol>
 
-<strong>For spatchcocking:</strong>
+<div class="strong">For spatchcocking:</div>
 
 <ol>
   <li>Using poultry scissors, with the turkey breast-side down, cut along both sides of the backbone to remove. You can save the backbone for stock or for gravy (one of the downsides to this is you can't stuff the bird). 

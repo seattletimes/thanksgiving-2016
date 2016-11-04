@@ -34,6 +34,14 @@ a {
   }
 }
 
+li a {
+  color: maroon;
+
+  &:hover {
+    color: black;
+  }
+}
+
 .header {
   text-align: center;
 }
@@ -58,11 +66,22 @@ a {
   padding-bottom: 20px;
 }
 
+.strong {
+  font-weight: bold;
+  font-family: @df-sans;
+  font-size: 22px;
+  color: maroon;
+}
+
 .basket-button {
   font-family: @df-sans;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   color: maroon;
+
+  &:hover {
+    color: black;
+  }
 
   .fa {
     padding-right: 4px;

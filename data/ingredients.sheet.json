@@ -673,7 +673,7 @@
   {
     "recipe": "dressing2",
     "ingredient": "Salt",
-    "amount": "1 1/2",
+    "amount": 1.5,
     "unit": "tsp"
   },
   {
@@ -691,7 +691,13 @@
   {
     "recipe": "dressing2",
     "ingredient": "Chicken stock",
-    "amount": "1 2/3",
+    "amount": 1,
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Chicken stock",
+    "amount": "1/3",
     "unit": "cups"
   },
   {
@@ -762,13 +768,13 @@
   {
     "recipe": "pie1",
     "ingredient": "Double-crust pie dough",
-    "amount": "1 1/4",
+    "amount": 1.25,
     "unit": "cups"
   },
   {
     "recipe": "pie1",
     "ingredient": "Cornstarch",
-    "amount": "2 1/2",
+    "amount": 2.5,
     "unit": "tsp"
   },
   {
@@ -808,7 +814,7 @@
   {
     "recipe": "pie1",
     "ingredient": "Sugar",
-    "amount": "1 1/2",
+    "amount": 1.5,
     "unit": "tsp"
   },
   {
@@ -818,7 +824,7 @@
   },
   {
     "recipe": "pie2",
-    "ingredient": "Double-crust pie dough (pre-made, or your favorite will work, or make Kate McDermott's recipe at artofthepie.com/1)",
+    "ingredient": "Double-crust pie dough",
     "amount": 1,
     "unit": "recipe"
   },
@@ -837,7 +843,7 @@
   {
     "recipe": "pie2",
     "ingredient": "Cornstarch",
-    "amount": "1 1/4",
+    "amount": 1.25,
     "unit": "tsp"
   },
   {

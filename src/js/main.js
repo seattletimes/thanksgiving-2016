@@ -36,13 +36,14 @@ qsa(".basket-button input").forEach(function(b) {
       });
       ingredients.forEach(function(i) {
         if (!allIngredients[i.ingredient]) {
+          console.log(eval(i.amount))
           allIngredients[i.ingredient] = {
-            amount: i.amount,
+            amount: eval(i.amount),
             unit: i.unit,
             ingredient: i.ingredient
           };
         } else {
-          allIngredients[i.ingredient].amount += i.amount;
+          allIngredients[i.ingredient].amount += eval(i.amount);
         }
       });
     });

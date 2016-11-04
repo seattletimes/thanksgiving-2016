@@ -1,4 +1,5 @@
-<strong>For the cornbread:</strong>
+<p><div class="strong">For the cornbread:</div></p>
+
 <ul>
   <li>1 ⅓ cup coarse-grind cornmeal
   <li>1 cup fine or medium-grind cornmeal
@@ -21,7 +22,7 @@
   <li>Crumble cornbread into large chunks. Dry in a 350 degree oven for 10 minutes. Cool. 
 </ol>
 
-<strong>For the dressing:</strong>
+<div class="strong">For the dressing:</div>
 <ul>
   <li>½ cup celery, small dice
   <li>¾ cup onion, small dice

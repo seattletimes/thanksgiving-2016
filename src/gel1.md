@@ -1,6 +1,6 @@
 To really go all in, start by making your own cranberry juice. The juice can be sweetened to your liking and used for this, and cocktails if you have any leftovers. 
 
-<strong>For the cranberry juice:</strong>
+<div class="strong">For the cranberry juice:</div>
 <ul>
   <li>4 cups fresh cranberries
   <li>4 cups water
@@ -16,7 +16,7 @@ To really go all in, start by making your own cranberry juice. The juice can be 
   <li>Pass the mixture through a fine strainer, and chill the finished juice in the refrigerator. 
 </ol>
 
-<strong>To make the gel:</strong>
+<div class="strong">To make the gel:</div>
 <ul>
   <li>1 quart of cranberry juice mixture
   <li>1.5 tablespoons agar agar (or follow the instructions on the package)

@@ -1,4 +1,4 @@
-<strong>Cranberry Pie</strong>
+<p><div class="strong">Cranberry Pie</div></p>
 
 <em>Makes one 9-inch shallow pie</em>
 
