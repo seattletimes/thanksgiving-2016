@@ -21,3 +21,18 @@ qsa(".tabs div").forEach(function(t) {
     }
   });
 });
+
+qsa(".fa-shopping-basket").forEach(function(b) {
+  b.addEventListener("click", function() {
+    var allIngredients = [];
+    var recipes = b.getAttribute("data-recipe").split(" ");
+    recipes.forEach(function(r) {
+      var ingredients = ingredientData.filter(function(i) {
+        return i.recipe == r;
+      })
+      allIngredients += ingredients;
+      console.log(allIngredients)
+    });
+    document.querySelector(".basket").innerHTML += allIngredients;
+  });
+});

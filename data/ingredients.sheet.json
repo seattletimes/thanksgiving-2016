@@ -1,0 +1,880 @@
+[
+  {
+    "recipe": "turkey1",
+    "ingredient": "Fresh turkey",
+    "amount": 1
+  },
+  {
+    "recipe": "turkey1",
+    "ingredient": "Kosher salt"
+  },
+  {
+    "recipe": "turkey1",
+    "ingredient": "White sugar"
+  },
+  {
+    "recipe": "turkey1",
+    "ingredient": "Assorted vegetables, such as celery, onion, carrot (optional)"
+  },
+  {
+    "recipe": "turkey2",
+    "ingredient": "Fresh turkey",
+    "amount": 1
+  },
+  {
+    "recipe": "turkey2",
+    "ingredient": "Kosher salt"
+  },
+  {
+    "recipe": "turkey2",
+    "ingredient": "Assorted vegetables, such as celery, onion, carrot (optional)"
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Chicken stock, strained (This can be a homemade stock or store bought. No bouillon!)",
+    "amount": 1,
+    "unit": "gallon"
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Bone-in chicken thighs, skin and fat removed",
+    "amount": 2
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Rind of Parmigiano-Reggiano",
+    "amount": 4,
+    "unit": "ounces"
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Thyme",
+    "amount": 2,
+    "unit": "sprigs"
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Flat leaf parsley stems",
+    "amount": 2
+  },
+  {
+    "recipe": "gravybase1",
+    "ingredient": "Medium yellow onion, cut in half, skin on",
+    "amount": "1/2"
+  },
+  {
+    "recipe": "gravysauce1",
+    "ingredient": "Medium shallot, finely minced",
+    "amount": 1
+  },
+  {
+    "recipe": "gravysauce1",
+    "ingredient": "Marsala, red wine, dry sherry or anything of your choosing (This could be a fruit juice. If substituting a liquor like bourbon, cut the quantity in half)",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "gravysauce1",
+    "ingredient": "Reduced brodo from above"
+  },
+  {
+    "recipe": "gravysauce1",
+    "ingredient": "Unsalted butter, cold, cubed butter slightly softening (this is more than you need)",
+    "amount": "1/2",
+    "unit": "lb"
+  },
+  {
+    "recipe": "gravysauce1",
+    "ingredient": "Sherry vinegar or a fruit jam, such as black currant (optional)"
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Chicken stock, strained (This can be a homemade stock or store bought. No bouillon!)",
+    "amount": 1,
+    "unit": "gallon"
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Bone-in chicken thighs, skin and fat removed",
+    "amount": 2
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Rind of Parmigiano-Reggiano",
+    "amount": 4,
+    "unit": "oz"
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Thyme",
+    "amount": 2,
+    "unit": "sprigs"
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Flat leaf parsley stems",
+    "amount": 2
+  },
+  {
+    "recipe": "gravybase2",
+    "ingredient": "Medium yellow onion, cut in half, skin on",
+    "amount": "1/2"
+  },
+  {
+    "recipe": "gravysauce2",
+    "ingredient": "Drippings from the roasted bird"
+  },
+  {
+    "recipe": "gravysauce2",
+    "ingredient": "Champagne or sherry vinegar",
+    "amount": 1,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "gravysauce2",
+    "ingredient": "Rosemary or thyme",
+    "amount": 1,
+    "unit": "sprig"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Heirloom beans, dried (your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Heirloom beans, dried (a second variety of your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Heirloom beans, dried (a third variety of your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Carrots (peel, leave whole, cut off tops)",
+    "amount": 3
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Celery stalks (leave whole, pick off leaves)",
+    "amount": 3
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Yellow onions (peeled, cut in half and made into three skewers, so they don't separate and float around)",
+    "amount": 1.5
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Sachet d'espices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)",
+    "amount": 3
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Salt"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Pepper"
+  },
+  {
+    "recipe": "bean1",
+    "ingredient": "Liquid smoke (optional, only necessary if you don’t have a smoker)",
+    "amount": "1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "beantruffle1",
+    "ingredient": "Butter",
+    "amount": "3 1/2",
+    "unit": "oz"
+  },
+  {
+    "recipe": "beantruffle1",
+    "ingredient": "Black truffle oil",
+    "amount": 1,
+    "unit": "oz"
+  },
+  {
+    "recipe": "beantruffle1",
+    "ingredient": "Black truffle peelings",
+    "amount": 1,
+    "unit": "oz"
+  },
+  {
+    "recipe": "beantruffle1",
+    "ingredient": "Salt"
+  },
+  {
+    "recipe": "beantruffle1",
+    "ingredient": "Pepper"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Stale brioche",
+    "amount": "1/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Canola oil",
+    "amount": 2,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Medium shallot, minced",
+    "amount": 1
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Garlic, minced",
+    "amount": 2,
+    "unit": "cloves"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Wild mushrooms, julienned (whatever you like: oyster mushrooms, chanterelles, trumpets, etc.)",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Finely chopped chives",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Finely chopped parsley",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Sun-dried tomatoes, julienned",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Salt"
+  },
+  {
+    "recipe": "beanfinish1",
+    "ingredient": "Black pepper"
+  },
+  {
+    "recipe": "beangarnish1",
+    "ingredient": "Truffle oil",
+    "amount": 1,
+    "unit": "oz"
+  },
+  {
+    "recipe": "beangarnish1",
+    "ingredient": "Parsley"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Heirloom beans, dried (your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Heirloom beans, dried (a second variety of your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Heirloom beans, dried (a third variety of your choice)",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Canola oil",
+    "amount": 2,
+    "unit": "T"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Yellow onion, diced",
+    "amount": "1/2"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Garlic, minced",
+    "amount": 2,
+    "unit": "cloves"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Thyme leaves",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Parsley, finely chopped",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Coriander",
+    "amount": 1,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Salt"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Pepper"
+  },
+  {
+    "recipe": "bean2",
+    "ingredient": "Liquid smoke (optional, only necessary if you don’t have a smoker)"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Stale brioche",
+    "amount": "1/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Canola oil",
+    "amount": 2,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Medium shallot, minced",
+    "amount": 1
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Garlic, minced",
+    "amount": 2,
+    "unit": "cloves"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Wild mushrooms, julienned (whatever you like: oyster mushrooms, chanterelles, trumpets, etc.)",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Finely chopped chives",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Finely chopped parsley",
+    "amount": 1,
+    "unit": "T"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Sun-dried tomatoes, julienned",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Black truffle butter",
+    "amount": "3 1/2",
+    "unit": "oz"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Salt"
+  },
+  {
+    "recipe": "beanfinish2",
+    "ingredient": "Black pepper"
+  },
+  {
+    "recipe": "beangarnish2",
+    "ingredient": "Truffle oil",
+    "amount": 1,
+    "unit": "oz"
+  },
+  {
+    "recipe": "beangarnish2",
+    "ingredient": "Parsley"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Small Yukon Gold potatoes (golf-ball sized)",
+    "amount": "2 2/3",
+    "unit": "lbs"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Dashi (see epicurious.com's Gourmet recipe)",
+    "amount": 5,
+    "unit": "cups"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Sake",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Sugar",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Soy sauce",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Mirin",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes1",
+    "ingredient": "Duck fat",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Small Yukon Gold potatoes (golf-ball sized)",
+    "amount": "2 2/3",
+    "unit": "lbs"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Dashi, made from dashi granules, or substitute chicken stock",
+    "amount": 5,
+    "unit": "cups"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Sake or substitute white wine",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Sugar",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Soy sauce",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Mirin or substitute dry sherry, sweet marsala, or white wine with ¼ teaspoon sugar ",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "potatoes2",
+    "ingredient": "Butter",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Course-grind cornmeal",
+    "amount": "1/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Fine or medium-grind cornmeal",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "All-purpose flour",
+    "amount": 2,
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Light brown sugar",
+    "amount": "2/3",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Kosher salt",
+    "amount": 1,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Baking soda",
+    "amount": 2,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Whey or buttermilk",
+    "amount": 2,
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Grapeseed or other neutral oil",
+    "amount": "1 1/3",
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressingcorn1",
+    "ingredient": "Eggs",
+    "amount": 2
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Celery, small dice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Onion, small dice",
+    "amount": "3/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Cloves garlic, minced",
+    "amount": 3
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Fennel, small dice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Chicken gizzards (or substitute 1/2 cup mushrooms)",
+    "amount": "1/3",
+    "unit": "lbs"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Extra-virgin olive oil",
+    "amount": "1/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Black pepper, ground",
+    "amount": "3/4",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Salt",
+    "amount": "1 1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Fresh sage, chopped",
+    "amount": 3,
+    "unit": "T"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Thyme, picked",
+    "amount": 1,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Chicken stock (substitution option: vegetable)",
+    "amount": "1 2/3",
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Eggs",
+    "amount": 2
+  },
+  {
+    "recipe": "dressing1",
+    "ingredient": "Grated Parmesan (optional)",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Jiffy cornbread mix",
+    "amount": 3,
+    "unit": "boxes"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Celery, small dice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Onion, small dice",
+    "amount": "3/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Garlic, minced",
+    "amount": 3,
+    "unit": "cloves"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Fennel, small dice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Chicken gizzards (or substitute 1/2 cup mushrooms)",
+    "amount": "1/3",
+    "unit": "lbs"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Extra-virgin olive oil",
+    "amount": "1/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Black pepper, ground",
+    "amount": "3/4",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Salt",
+    "amount": "1 1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Fresh sage, chopped",
+    "amount": 3,
+    "unit": "T"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Thyme, picked",
+    "amount": 1,
+    "unit": "tsp"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Chicken stock (substitution option: vegetable)",
+    "amount": "1 2/3",
+    "unit": "cups"
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Eggs",
+    "amount": 2
+  },
+  {
+    "recipe": "dressing2",
+    "ingredient": "Grated Parmesan (optional)",
+    "amount": 1,
+    "unit": "cup"
+  },
+  {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Fresh cranberries",
+    "amount": 4,
+    "unit": "cups"
+  },
+  {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Water",
+    "amount": 4,
+    "unit": "cups"
+  },
+  {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Fresh orange juice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Lemon juice",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Simple syrup",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "cranberrygel1",
+    "ingredient": "Cranberry juice mixture",
+    "amount": 1,
+    "unit": "quart"
+  },
+  {
+    "recipe": "cranberrygel1",
+    "ingredient": "Agar agar (or follow the instructions on the package)",
+    "amount": 1.5,
+    "unit": "T"
+  },
+  {
+    "recipe": "cranberry2",
+    "ingredient": "Bottled cranberry juice",
+    "amount": 1,
+    "unit": "quart"
+  },
+  {
+    "recipe": "cranberry2",
+    "ingredient": "Agar agar (or follow the instructions on the package)",
+    "amount": 1.5,
+    "unit": "T"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Whole cranberries, fresh or unthawed frozen, divided",
+    "amount": 1,
+    "unit": "quart"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Sugar",
+    "amount": "1 1/4",
+    "unit": "cups"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Cornstarch",
+    "amount": "2 1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Freshly ground nutmeg",
+    "amount": "A pinch or small grating of"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Salt",
+    "amount": "1/4",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Fresh orange zest or 1 T orange liquer",
+    "amount": "1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Chopped walnuts (optional)",
+    "amount": "1/2",
+    "unit": "cup"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Double-crust pie dough (pre-made, or your favorite will work, or make Kate McDermott's recipe at artofthepie.com/1)",
+    "amount": 1,
+    "unit": "recipe"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Butter, the size of a small walnut, cut into small pieces for dotting the top of the filling",
+    "amount": "1/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Sugar, for sprinkling on top of the pie",
+    "amount": "1 1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Egg wash"
+  },
+  {
+    "recipe": "pie1",
+    "ingredient": "Egg white plus 1 T water, fork-beaten",
+    "amount": 1
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Double-crust pie dough (pre-made, or your favorite will work, or make Kate McDermott's recipe at artofthepie.com/1)",
+    "amount": 1,
+    "unit": "recipe"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Whole cranberries, fresh or unthawed frozen, divided",
+    "amount": 2,
+    "unit": "cups"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Sugar",
+    "amount": "3/4",
+    "unit": "cup"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Cornstarch",
+    "amount": "1 1/4",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Freshly ground nutmeg",
+    "amount": "A pinch or small grating of"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Salt",
+    "amount": "A pinch"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Fresh orange zest or 1 T orange liquer",
+    "amount": "1/2",
+    "unit": "tsp"
+  },
+  {
+    "recipe": "pie2",
+    "ingredient": "Egg Wash: 1 egg white plus 1 T water, fork-beaten"
+  }
+]

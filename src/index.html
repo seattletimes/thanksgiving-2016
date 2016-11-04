@@ -10,6 +10,10 @@
     <%= t.include("./partials/_nav.html") %>
 
     <div class="inner">
+
+      <div class="basket">
+      </div>
+
       <section id="turkey" class="recipe">
         <div class="title">Spatchcocked Turkey</div>
         <div class="credit">— Brady Williams, Canlis</div>
@@ -88,6 +92,9 @@
       </section>
     </div>
     
+    <script>
+      var ingredientData = <%= JSON.stringify(json.ingredients) %>;
+    </script>
     <script src="app.js" async></script>
     <% if (json.project.production) { %>
     <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
