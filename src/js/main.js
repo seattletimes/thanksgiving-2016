@@ -23,7 +23,7 @@ qsa(".tabs div").forEach(function(t) {
   });
 });
 
-qsa(".basket-button").forEach(function(b) {
+qsa(".basket-button input").forEach(function(b) {
   b.addEventListener("click", function() {
     var recipes = [];
     qsa("input:checked").forEach(function(i) {
@@ -36,7 +36,11 @@ qsa(".basket-button").forEach(function(b) {
       });
       ingredients.forEach(function(i) {
         if (!allIngredients[i.ingredient]) {
-          allIngredients[i.ingredient] = i;
+          allIngredients[i.ingredient] = {
+            amount: i.amount,
+            unit: i.unit,
+            ingredient: i.ingredient
+          };
         } else {
           allIngredients[i.ingredient].amount += i.amount;
         }

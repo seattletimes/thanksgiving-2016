@@ -3,7 +3,7 @@
 .inner {
   max-width: 1200px;
   margin: auto;
-  padding: 0 10px;
+  padding: 0 20px;
 }
 
 a {
@@ -42,9 +42,17 @@ a {
   font-size: 75px;
   text-align: center;
   font-weight: bold;
-  padding: 15px 0;
+  padding: 15px 20px;
+
+  @media @tablet {
+    font-size: 60px;
+  }
+  @media @mobile {
+    font-size: 40px;
+  }
 }
 .chatter {
+  padding: 0 20px;
   margin: auto;
   max-width: 800px;
   padding-bottom: 20px;
@@ -105,6 +113,13 @@ input[type="checkbox"] {
   padding-left: 40px;
 }
 
+@media @tablet {
+  .left-rail, .right-rail {
+    display: block;
+    width: 100%;
+  }
+}
+
 .menu {
   padding-bottom: 40px;
   // text-align: center;
@@ -119,7 +134,14 @@ input[type="checkbox"] {
   }
 }
 
+.basket-link {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
 .button {
+  margin-bottom: 5px;
   background: maroon;
   display: inline-block;
   color: white;
@@ -200,6 +222,11 @@ input[type="checkbox"] {
   border: 1px solid @df-light-gray;
   padding: 40px;
   display: none;
+
+  @media @mobile {
+    padding: 20px;
+    padding-top: 30px;
+  }
 
   p:first-child {
     margin-top: 0;
