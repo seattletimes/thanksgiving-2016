@@ -1,5 +1,3 @@
-<i data-recipe="cranberryjuice1 cranberrygel1" class="fa fa-shopping-basket" aria-hidden="true"></i>
- 
 To really go all in, start by making your own cranberry juice. The juice can be sweetened to your liking and used for this, and cocktails if you have any leftovers. 
 
 <strong>For the cranberry juice:</strong>

@@ -1,5 +1,3 @@
-<i data-recipe="pie1" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <strong>Cranberry Pie</strong>
 
 <em>Makes one 9-inch shallow pie</em>

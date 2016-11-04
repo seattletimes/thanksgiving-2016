@@ -1,5 +1,3 @@
-<i data-recipe="cranberry2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 To make the simple version of this recipe, start with a bottled cranberry juice. Note that some cranberry juices are completely unsweetened, and are quite tart. If you start with one of those, sweeten to your liking with simple syrup before making the gel. 
 
 <strong>To make the gel:</strong>

@@ -23,16 +23,26 @@ qsa(".tabs div").forEach(function(t) {
   });
 });
 
-qsa(".fa-shopping-basket").forEach(function(b) {
+qsa(".basket-button").forEach(function(b) {
   b.addEventListener("click", function() {
+    var recipes = [];
+    qsa("input:checked").forEach(function(i) {
+      recipes.push(...i.getAttribute("data-recipe").split(" "));
+    })
+    console.log(qsa("input:checked"))
     var allIngredients = [];
-    var recipes = b.getAttribute("data-recipe").split(" ");
     recipes.forEach(function(r) {
       var ingredients = ingredientData.filter(function(i) {
         return i.recipe == r;
       })
       allIngredients = allIngredients.concat(ingredients);
     });
+    if (allIngredients.length == 0) {
+      document.querySelector(".empty").classList.remove("hidden");
+    } else {
+      document.querySelector(".empty").classList.add("hidden");
+    }
+    document.querySelector(".basket ul").innerHTML = "";
     allIngredients.forEach(function(i) {
       var item = document.createElement("li");
       if (i.amount) i.ingredient = i.ingredient.toLowerCase();
@@ -43,10 +53,6 @@ qsa(".fa-shopping-basket").forEach(function(b) {
       if (i.ingredient) language += i.ingredient;
       item.innerHTML = language;
       document.querySelector(".basket ul").appendChild(item);
-
-      if (document.querySelector(".empty")) {
-        document.querySelector(".empty").classList.add("hidden");
-      }
     });
   });
 });

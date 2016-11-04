@@ -1,5 +1,3 @@
-<i data-recipe="bean2 beanfinish2 beangarnish2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <strong>Note:</strong> Finding canned heirloom beans may prove to be difficult. The goal here is to have a few different colors and sizes of beans for variety. If you can’t find heirloom, try a mixture of beans such as great northern, cannellini, pinto or kidney. 
 
 <em>Serves 8</em>

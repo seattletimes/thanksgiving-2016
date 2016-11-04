@@ -30,9 +30,37 @@ a {
   padding-bottom: 40px;
 }
 
-.fa-shopping-basket {
-  cursor: pointer;
+.basket-button {
+  font-family: @df-sans;
+  font-size: 14px;
+  font-weight: bold;
+  color: maroon;
+
+  .fa {
+    padding-right: 4px;
+  }
 }
+
+input[type="checkbox"] {
+  display: none;
+  cursor: pointer;
+
+  & + label {
+    cursor: pointer;
+    .fa-check, .added {
+      display: none;
+    }
+  }
+  &:checked + label {
+    .fa-shopping-basket {
+      display: none;
+    }
+    .fa-check, .added {
+      display: inline-block;
+    }
+  }
+}
+
 .basket {
   padding-bottom: 60px;
 

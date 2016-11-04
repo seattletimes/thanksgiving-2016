@@ -1,5 +1,3 @@
-<i data-recipe="gravybase1 gravysauce1" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <em>Serves 6-8</em>
  
 <strong>For the chicken brodo base:</strong>

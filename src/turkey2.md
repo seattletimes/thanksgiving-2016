@@ -1,5 +1,3 @@
-<i data-recipe="turkey2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 When you buy your turkey, have your butcher butterfly it for you. (If they cannot, for whatever reason, see instructions in the “go for it” version of this recipe.)
 
 <ul>

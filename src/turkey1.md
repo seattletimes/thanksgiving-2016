@@ -1,5 +1,3 @@
-<i data-recipe="turkey1" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 We always brine our birds first, which is the process of creating a salt solution that both seasons and breaks down the internal protein structure, which means the meat will be more tender. It takes some time and quite a bit of space, so remember to start early. If you prefer a dry brine option, check out the “simplify” version of this recipe. 
 
 <ul>

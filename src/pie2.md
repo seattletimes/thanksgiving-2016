@@ -1,5 +1,3 @@
-<i data-recipe="pie2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <strong>Rustic Cranberry Tart</strong>
  
 In France, these are known as gallettes; in Italy, crostata. The amount and kind of filling you put inside doesn’t have to be exact.

@@ -1,5 +1,3 @@
-<i data-recipe="dressing2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <ul>
   <li>3 boxes Jiffy cornbread mix
   <li>½ cup celery, small dice

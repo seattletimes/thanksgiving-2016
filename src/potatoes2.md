@@ -1,5 +1,3 @@
-<i data-recipe="potatoes2" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 Links:
 mirin or substitute
 http://www.seattletimes.com/life/food-drink/what-can-substitute-for-mirin/

@@ -1,5 +1,3 @@
-<i data-recipe="dressingcorn1 dressing1" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 <strong>For the cornbread:</strong>
 <ul>
   <li>1 ⅓ cup coarse-grind cornmeal

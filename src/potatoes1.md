@@ -1,5 +1,3 @@
-<i data-recipe="potatoes1" class="fa fa-shopping-basket" aria-hidden="true"></i>
-
 Links:
 epicurious.com’s Gourmet recipe
 http://www.epicurious.com/recipes/food/views/dashi-japanese-sea-stock-103413

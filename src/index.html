@@ -38,8 +38,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.turkey1 %></div>
-          <div class="simplify"><%= markdown.turkey2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="turkey1" type="checkbox" id="turkey1"><label for="turkey1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.turkey1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="turkey2" type="checkbox" id="turkey2"><label for="turkey2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.turkey2 %>
+          </div>
         </section>
 
         <section id="gravy" class="recipe">
@@ -50,8 +60,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.gravy1 %></div>
-          <div class="simplify"><%= markdown.gravy2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="gravybase1 gravysauce1" type="checkbox" id="gravy1"><label for="gravy1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.gravy1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="gravybase2 gravysauce2" type="checkbox" id="gravy2"><label for="gravy2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.gravy2 %>
+          </div>
         </section>
 
         <section id="beans" class="recipe">
@@ -63,8 +83,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.beans1 %></div>
-          <div class="simplify"><%= markdown.beans2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="bean1 beantruffle1 beanfinish1 beangarnish1" type="checkbox" id="beans1"><label for="beans1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.beans1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="bean2 beanfinish2 beangarnish2" type="checkbox" id="beans2"><label for="beans2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.beans2 %>
+          </div>
         </section>
 
         <section id="potatoes" class="recipe">
@@ -75,8 +105,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.potatoes1 %></div>
-          <div class="simplify"><%= markdown.potatoes2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="potatoes1" type="checkbox" id="potatoes1"><label for="potatoes1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.potatoes1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="potatoes2" type="checkbox" id="potatoes2"><label for="potatoes2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.potatoes2 %>
+          </div>
         </section>
 
         <section id="cornbread" class="recipe">
@@ -87,8 +127,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.cornbread1 %></div>
-          <div class="simplify"><%= markdown.cornbread2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="dressingcorn1 dressing1" type="checkbox" id="cornbread1"><label for="cornbread1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.cornbread1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="dressing2" type="checkbox" id="cornbread2"><label for="cornbread2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.cornbread2 %>
+          </div>
         </section>
 
         <section id="gel" class="recipe">
@@ -98,8 +148,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.gel1 %></div>
-          <div class="simplify"><%= markdown.gel2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="cranberryjuice1 cranberrygel1" type="checkbox" id="gel1"><label for="gel1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.gel1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="cranberry2" type="checkbox" id="gel2"><label for="gel2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.gel2 %>
+          </div>
         </section>
 
         <section id="pie" class="recipe">
@@ -110,8 +170,18 @@
           <div class="tabs">
             <div class="selected" data-type="goforit">Go for it <i class="fa fa-angle-down" aria-hidden="true"></i></div><div data-type="simplify">Simplify <i class="fa fa-angle-down" aria-hidden="true"></i></div>
           </div>
-          <div class="shown goforit"><%= markdown.pie1 %></div>
-          <div class="simplify"><%= markdown.pie2 %></div>
+          <div class="shown goforit">
+            <div class="basket-button">
+              <input data-recipe="pie1" type="checkbox" id="pie1"><label for="pie1"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.pie1 %>
+          </div>
+          <div class="simplify">
+            <div class="basket-button">
+              <input data-recipe="pie2" type="checkbox" id="pie2"><label for="pie2"><%= t.include("./_basket.html") %></label>
+            </div>
+            <%= markdown.pie2 %>
+          </div>
         </section>
 
         <div class="title">My Shopping Basket</div>
