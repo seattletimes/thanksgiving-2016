@@ -28,32 +28,39 @@ qsa(".basket-button").forEach(function(b) {
     var recipes = [];
     qsa("input:checked").forEach(function(i) {
       recipes.push(...i.getAttribute("data-recipe").split(" "));
-    })
-    console.log(qsa("input:checked"))
-    var allIngredients = [];
+    });
+    var allIngredients = {};
     recipes.forEach(function(r) {
       var ingredients = ingredientData.filter(function(i) {
         return i.recipe == r;
-      })
-      allIngredients = allIngredients.concat(ingredients);
+      });
+      ingredients.forEach(function(i) {
+        if (!allIngredients[i.ingredient]) {
+          allIngredients[i.ingredient] = i;
+        } else {
+          allIngredients[i.ingredient].amount += i.amount;
+        }
+      });
     });
-    if (allIngredients.length == 0) {
+    if (Object.keys(allIngredients).length == 0) {
       document.querySelector(".empty").classList.remove("hidden");
     } else {
       document.querySelector(".empty").classList.add("hidden");
     }
     document.querySelector(".basket ul").innerHTML = "";
-    allIngredients.forEach(function(i) {
+
+    for (var ing in allIngredients) {
       var item = document.createElement("li");
-      if (i.amount) i.ingredient = i.ingredient.toLowerCase();
+      var ingredient = allIngredients[ing].ingredient;
+      if (allIngredients[ing].amount) ingredient = allIngredients[ing].ingredient.toLowerCase();
 
       var language = "";
-      if (i.amount) language += i.amount + " ";
-      if (i.unit) language += i.unit + " ";
-      if (i.ingredient) language += i.ingredient;
+      if (allIngredients[ing].amount) language += allIngredients[ing].amount + " ";
+      if (allIngredients[ing].unit) language += allIngredients[ing].unit + " ";
+      language += ingredient;
       item.innerHTML = language;
       document.querySelector(".basket ul").appendChild(item);
-    });
+    }
   });
 });
 
