@@ -1,5 +1,3 @@
-Go for it
-
 <i data-recipe="pie1" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 <strong>Cranberry Pie</strong>

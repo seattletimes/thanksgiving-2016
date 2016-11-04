@@ -1,5 +1,3 @@
-Go for it
-
 <i data-recipe="bean1 beantruffle1 beanfinish1 beangarnish1" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 <strong>Note:</strong> This recipe will take two days to make. Start early! Or, see the “simplify” version, which can be done in one day.

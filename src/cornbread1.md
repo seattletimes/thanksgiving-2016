@@ -1,5 +1,3 @@
-Go for it
-
 <i data-recipe="dressingcorn1 dressing1" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 <strong>For the cornbread:</strong>

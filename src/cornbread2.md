@@ -1,5 +1,3 @@
-Simplify
-
 <i data-recipe="dressing2" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 <ul>

@@ -1,5 +1,3 @@
-Go for it
-
 <i data-recipe="potatoes1" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 Links:

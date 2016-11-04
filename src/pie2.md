@@ -1,5 +1,3 @@
-Simplify
-
 <i data-recipe="pie2" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 <strong>Rustic Cranberry Tart</strong>

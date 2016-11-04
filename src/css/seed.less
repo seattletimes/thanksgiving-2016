@@ -41,9 +41,20 @@
     cursor: pointer;
     border-radius: 4px 4px 0 0;
 
-    &:hover {
+    .fa-angle-down {
+      padding-left: 4px;
+      display: none;
+    }
+
+    &:hover, &.selected {
       background: maroon;
       color: white;
+    }
+
+    &.selected {
+      .fa-angle-down {
+        display: inline-block;
+      }
     }
 
     &:first-child {
@@ -55,10 +66,12 @@
 .goforit, .simplify {
   background: @df-off-white;
   border: 1px solid @df-light-gray;
-  padding: 40px
-}
-.simplify {
+  padding: 40px;
   display: none;
+
+  &.shown {
+    display: block;
+  }
 }
 
 ol li {

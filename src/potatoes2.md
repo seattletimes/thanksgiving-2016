@@ -1,5 +1,3 @@
-Simplify
-
 <i data-recipe="potatoes2" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
 Links:
