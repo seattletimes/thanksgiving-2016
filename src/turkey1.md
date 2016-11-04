@@ -1,10 +1,7 @@
 <i data-recipe="turkey1" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
-One of the things many people dislike about turkey is that is often too dry — by the time the legs and thighs (the best part) are done cooking, the breast is overdone. Spatchcocking (also known as butterflying) a bird, by removing the backbone, will yield a juicier, crispier final product. And because you are exposing more surface area to direct heat, the turkey will cook in considerably less time — about 90 minutes versus a few hours.
- 
 We always brine our birds first, which is the process of creating a salt solution that both seasons and breaks down the internal protein structure, which means the meat will be more tender. It takes some time and quite a bit of space, so remember to start early. If you prefer a dry brine option, check out the “simplify” version of this recipe. 
 
-<strong>Ingredients</strong>
 <ul>
   <li>1 fresh turkey
   <li>Kosher salt

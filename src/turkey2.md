@@ -1,10 +1,7 @@
 <i data-recipe="turkey2" class="fa fa-shopping-basket" aria-hidden="true"></i>
 
-One of the things many people dislike about turkey is that is often too dry — by the time the legs and thighs (the best part) are done cooking, the breast is overdone. Spatchcocking (also known as butterflying) a bird, by removing the backbone, will yield a juicier, crispier final product. And because you are exposing more surface area to direct heat, the turkey will cook in considerably less time — about 90 minutes versus a few hours.
-
 When you buy your turkey, have your butcher butterfly it for you. (If they cannot, for whatever reason, see instructions in the “go for it” version of this recipe.)
 
-<strong>Ingredients</strong>
 <ul>
   <li>1 fresh turkey
   <li>Kosher salt
