@@ -1,6 +1,6 @@
 To make the simple version of this recipe, start with a bottled cranberry juice. Note that some cranberry juices are completely unsweetened, and are quite tart. If you start with one of those, sweeten to your liking with simple syrup before making the gel. 
 
-<div class="strong">To make the gel:</div>
+<div class="strong">For the gel:</div>
 <ul>
   <li>1 quart bottled cranberry juice
   <li>1.5 tablespoons agar agar (or follow the instructions on the package)

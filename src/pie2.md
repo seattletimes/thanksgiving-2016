@@ -5,7 +5,7 @@ In France, these are known as gallettes; in Italy, crostata. The amount and kind
 <em>Makes 2 Tarts</em>
  
 <ul>
-  <li>1 recipe double-crust pie dough (pre-made, or your favorite will work, or make Kate McDermott’s recipe at artofthepie.com/1)
+  <li>1 recipe double-crust pie dough (pre-made, or your favorite will work, or make <a href="http://www.artofthepie.com/1">Kate McDermott’s recipe</a>)
   <li>2 cups whole cranberries, fresh or unthawed frozen, divided
   <li>¾ cup sugar
   <li>1 ¼  teaspoons cornstarch

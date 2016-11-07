@@ -1,6 +1,6 @@
 <em>Serves 6-8</em>
 
-<div class="strong">For chicken brodo base:</div>
+<div class="strong">For the chicken brodo base:</div>
 <ul>
   <li>1 gallon chicken stock, strained (this can be a homemade stock or store-bought; no bouillon!)
   <li>2 bone-in chicken thighs, skin and fat removed
@@ -18,7 +18,7 @@
   <li>This sauce can be refrigerated or frozen at this stage, or turned into your finished sauce.
 </ol>
 
-<div class="strong">For finished gravy:</div>
+<div class="strong">For the finished gravy:</div>
 <ul>
   <li>Drippings from the roasted bird
   <li>1 teaspoon champagne or sherry vinegar

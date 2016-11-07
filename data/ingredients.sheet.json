@@ -1,868 +1,890 @@
 [
   {
-    "recipe": "turkey1",
-    "ingredient": "Fresh turkey",
-    "amount": 1
+    "cranberrygel1": "cranberry2",
+    "Agar agar": "Agar agar",
+    "1.5": 1.5,
+    "T": "T"
   },
   {
-    "recipe": "turkey1",
-    "ingredient": "Kosher salt"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "All-purpose flour",
+    "1.5": 2,
+    "T": "cups"
   },
   {
-    "recipe": "turkey1",
-    "ingredient": "Sugar"
+    "cranberrygel1": "turkey1",
+    "Agar agar": "Assorted vegetables, such as celery, onion, carrot (optional)"
   },
   {
-    "recipe": "turkey1",
-    "ingredient": "Assorted vegetables, such as celery, onion, carrot (optional)"
+    "cranberrygel1": "turkey2",
+    "Agar agar": "Assorted vegetables, such as celery, onion, carrot (optional)"
   },
   {
-    "recipe": "turkey2",
-    "ingredient": "Fresh turkey",
-    "amount": 1
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Baking soda",
+    "1.5": 2,
+    "T": "tsp"
   },
   {
-    "recipe": "turkey2",
-    "ingredient": "Kosher salt"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Black pepper"
   },
   {
-    "recipe": "turkey2",
-    "ingredient": "Assorted vegetables, such as celery, onion, carrot (optional)"
+    "cranberrygel1": "beantruffle1",
+    "Agar agar": "Black pepper"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Chicken stock",
-    "amount": 1,
-    "unit": "gallon"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Black pepper"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Bone-in chicken thighs",
-    "amount": 2
+    "cranberrygel1": "bean2",
+    "Agar agar": "Black pepper"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Rind of Parmigiano-Reggiano",
-    "amount": 4,
-    "unit": "ounces"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Black pepper"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Thyme",
-    "amount": 2,
-    "unit": "sprigs"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Black pepper",
+    "1.5": "3/4",
+    "T": "tsp"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Parsley",
-    "amount": 2
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Black pepper",
+    "1.5": "3/4",
+    "T": "tsp"
   },
   {
-    "recipe": "gravybase1",
-    "ingredient": "Medium yellow onion",
-    "amount": "1/2"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Black truffle butter",
+    "1.5": 3.5,
+    "T": "oz"
   },
   {
-    "recipe": "gravysauce1",
-    "ingredient": "Medium shallot",
-    "amount": 1
+    "cranberrygel1": "beantruffle1",
+    "Agar agar": "Black truffle peelings",
+    "1.5": 1,
+    "T": "oz"
   },
   {
-    "recipe": "gravysauce1",
-    "ingredient": "Marsala, red wine, dry sherry or fruit juice",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Bone-in chicken thighs",
+    "1.5": 2
   },
   {
-    "recipe": "gravysauce1",
-    "ingredient": "Butter",
-    "amount": "1/2",
-    "unit": "lb"
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Bone-in chicken thighs",
+    "1.5": 2
   },
   {
-    "recipe": "gravysauce1",
-    "ingredient": "Sherry vinegar or a fruit jam, such as black currant (optional)"
+    "cranberrygel1": "gravysauce1",
+    "Agar agar": "Butter",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Chicken stock",
-    "amount": 1,
-    "unit": "gallon"
+    "cranberrygel1": "beantruffle1",
+    "Agar agar": "Butter",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Bone-in chicken thighs",
-    "amount": 2
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Butter",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Rind of Parmigiano-Reggiano",
-    "amount": 4,
-    "unit": "oz"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Butter",
+    "1.5": "1/4",
+    "T": "cup"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Thyme",
-    "amount": 2,
-    "unit": "sprigs"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Canola oil",
+    "1.5": 2,
+    "T": "T"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Parsley",
-    "amount": 2
+    "cranberrygel1": "bean2",
+    "Agar agar": "Canola oil",
+    "1.5": 2,
+    "T": "T"
   },
   {
-    "recipe": "gravybase2",
-    "ingredient": "Medium yellow onion",
-    "amount": "1/2"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Canola oil",
+    "1.5": 2,
+    "T": "T"
   },
   {
-    "recipe": "gravysauce2",
-    "ingredient": "Champagne or sherry vinegar",
-    "amount": 1,
-    "unit": "tsp"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Carrots",
+    "1.5": 3
   },
   {
-    "recipe": "gravysauce2",
-    "ingredient": "Rosemary or thyme",
-    "amount": 1,
-    "unit": "sprig"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Celery",
+    "1.5": 3,
+    "T": "stalks"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Heirloom beans, dried (your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Celery",
+    "1.5": 2,
+    "T": "stalks"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Heirloom beans, dried (a second variety of your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Celery",
+    "1.5": 2,
+    "T": "stalks"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Heirloom beans, dried (a third variety of your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "gravysauce2",
+    "Agar agar": "Champagne or sherry vinegar",
+    "1.5": 1,
+    "T": "tsp"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Carrots",
-    "amount": 3
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Chicken gizzards",
+    "1.5": "1/3",
+    "T": "lbs"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Celery",
-    "amount": 3,
-    "unit": "stalks"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Chicken gizzards",
+    "1.5": "1/3",
+    "T": "lbs"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Medium yellow onion",
-    "amount": 1.5
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Chicken stock",
+    "1.5": 16,
+    "T": "cups"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Sachet d'espices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)",
-    "amount": 3
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Chicken stock",
+    "1.5": 16,
+    "T": "cups"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Salt"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Chicken stock",
+    "1.5": 1,
+    "T": "cups"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Black pepper"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Chicken stock",
+    "1.5": "2/3",
+    "T": "cups"
   },
   {
-    "recipe": "bean1",
-    "ingredient": "Liquid smoke (optional)",
-    "amount": "1/2",
-    "unit": "tsp"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Chicken stock",
+    "1.5": 1,
+    "T": "cups"
   },
   {
-    "recipe": "beantruffle1",
-    "ingredient": "Butter",
-    "amount": "3 1/2",
-    "unit": "oz"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Chicken stock",
+    "1.5": "1/3",
+    "T": "cups"
   },
   {
-    "recipe": "beantruffle1",
-    "ingredient": "Truffle oil",
-    "amount": 1,
-    "unit": "oz"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Chives",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "beantruffle1",
-    "ingredient": "Black truffle peelings",
-    "amount": 1,
-    "unit": "oz"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Chives",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "beantruffle1",
-    "ingredient": "Salt"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Chopped walnuts (optional)",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "beantruffle1",
-    "ingredient": "Black pepper"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Coriander",
+    "1.5": 1,
+    "T": "tsp"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Stale brioche",
-    "amount": "1/4",
-    "unit": "cup"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Cornstarch",
+    "1.5": 2.5,
+    "T": "tsp"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Canola oil",
-    "amount": 2,
-    "unit": "T"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Cornstarch",
+    "1.5": 1.25,
+    "T": "tsp"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Medium shallot",
-    "amount": 1
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Course-grind cornmeal",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Garlic",
-    "amount": 2,
-    "unit": "cloves"
+    "cranberrygel1": "cranberrygel1",
+    "Agar agar": "Cranberry juice mixture",
+    "1.5": 1,
+    "T": "quart"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Wild mushrooms",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "cranberry2",
+    "Agar agar": "Cranberry juice mixture",
+    "1.5": 1,
+    "T": "quart"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Chives",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Dashi",
+    "1.5": 5,
+    "T": "cups"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Dashi",
+    "1.5": 5,
+    "T": "cups"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Sun-dried tomatoes",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Double-crust pie dough",
+    "1.5": 1,
+    "T": "recipe"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Salt"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Double-crust pie dough",
+    "1.5": 1,
+    "T": "recipe"
   },
   {
-    "recipe": "beanfinish1",
-    "ingredient": "Black pepper"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Duck fat",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "beangarnish1",
-    "ingredient": "Truffle oil",
-    "amount": 1,
-    "unit": "oz"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Egg",
+    "1.5": 2
   },
   {
-    "recipe": "beangarnish1",
-    "ingredient": "Parsley"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Egg",
+    "1.5": 2
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Heirloom beans, dried (your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Egg",
+    "1.5": 2
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Heirloom beans, dried (a second variety of your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Egg",
+    "1.5": 1
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Heirloom beans, dried (a third variety of your choice)",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Egg",
+    "1.5": 1
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Canola oil",
-    "amount": 2,
-    "unit": "T"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Extra-virgin olive oil",
+    "1.5": "1/4",
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Medium yellow onion",
-    "amount": "1/2"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Extra-virgin olive oil",
+    "1.5": "1/4",
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Garlic",
-    "amount": 2,
-    "unit": "cloves"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Fennel",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Thyme",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Fennel, small dice",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Fine or medium-grind cornmeal",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Coriander",
-    "amount": 1,
-    "unit": "tsp"
+    "cranberrygel1": "cranberryjuice1",
+    "Agar agar": "Fresh cranberries",
+    "1.5": 4,
+    "T": "cups"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Salt"
+    "cranberrygel1": "cranberryjuice1",
+    "Agar agar": "Fresh orange juice",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Black pepper"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Fresh orange zest",
+    "1.5": "1/2",
+    "T": "tsp"
   },
   {
-    "recipe": "bean2",
-    "ingredient": "Liquid smoke (optional)"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Fresh orange zest or 1 T orange liquer",
+    "1.5": "1/2",
+    "T": "tsp"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Stale brioche",
-    "amount": "1/4",
-    "unit": "cup"
+    "cranberrygel1": "turkey1",
+    "Agar agar": "Fresh turkey",
+    "1.5": 1
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Canola oil",
-    "amount": 2,
-    "unit": "T"
+    "cranberrygel1": "turkey2",
+    "Agar agar": "Fresh turkey",
+    "1.5": 1
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Medium shallot",
-    "amount": 1
+    "cranberrygel1": "pie1",
+    "Agar agar": "Freshly ground nutmeg"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Garlic",
-    "amount": 2,
-    "unit": "cloves"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Freshly ground nutmeg"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Wild mushrooms",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Garlic",
+    "1.5": 2,
+    "T": "cloves"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Chives",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Garlic",
+    "1.5": 2,
+    "T": "cloves"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "T"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Garlic",
+    "1.5": 2,
+    "T": "cloves"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Sun-dried tomatoes",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Garlic",
+    "1.5": 3,
+    "T": "cloves"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Black truffle butter",
-    "amount": "3 1/2",
-    "unit": "oz"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Garlic",
+    "1.5": 3,
+    "T": "cloves"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Salt"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Grapeseed or other neutral oil",
+    "1.5": 1,
+    "T": "cups"
   },
   {
-    "recipe": "beanfinish2",
-    "ingredient": "Black pepper"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Grapeseed or other neutral oil",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "beangarnish2",
-    "ingredient": "Truffle oil",
-    "amount": 1,
-    "unit": "oz"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Grated Parmesan (optional)",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "beangarnish2",
-    "ingredient": "Parsley"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Grated Parmesan (optional)",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Small Yukon Gold potatoes",
-    "amount": "2 2/3",
-    "unit": "lbs"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Heirloom beans, dried (a second variety of your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Dashi",
-    "amount": 5,
-    "unit": "cups"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Heirloom beans, dried (a second variety of your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Sake",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Heirloom beans, dried (a third variety of your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Sugar",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Heirloom beans, dried (a third variety of your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Soy sauce",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Heirloom beans, dried (your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Mirin",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Heirloom beans, dried (your choice)",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes1",
-    "ingredient": "Duck fat",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "recipe",
+    "Agar agar": "ingredient",
+    "1.5": "amount",
+    "T": "unit"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Small Yukon Gold potatoes",
-    "amount": "2 2/3",
-    "unit": "lbs"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Jiffy cornbread mix",
+    "1.5": 3,
+    "T": "boxes"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Dashi",
-    "amount": 5,
-    "unit": "cups"
+    "cranberrygel1": "turkey1",
+    "Agar agar": "Kosher salt"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Sake",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "turkey2",
+    "Agar agar": "Kosher salt"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Sugar",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Kosher salt",
+    "1.5": 1,
+    "T": "tsp"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Soy sauce",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "cranberryjuice1",
+    "Agar agar": "Lemon juice",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Mirin",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Light brown sugar",
+    "1.5": "2/3",
+    "T": "cup"
   },
   {
-    "recipe": "potatoes2",
-    "ingredient": "Butter",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Liquid smoke (optional)",
+    "1.5": "1/2",
+    "T": "tsp"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Course-grind cornmeal",
-    "amount": "1/3",
-    "unit": "cup"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Liquid smoke (optional)",
+    "1.5": "1/2",
+    "T": "tsp"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Fine or medium-grind cornmeal",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "gravysauce1",
+    "Agar agar": "Marsala, red wine, dry sherry or fruit juice",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "All-purpose flour",
-    "amount": 2,
-    "unit": "cups"
+    "cranberrygel1": "gravysauce1",
+    "Agar agar": "Medium shallot",
+    "1.5": 1
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Light brown sugar",
-    "amount": "2/3",
-    "unit": "cup"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Medium shallot",
+    "1.5": 1
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Kosher salt",
-    "amount": 1,
-    "unit": "tsp"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Medium shallot",
+    "1.5": 1
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Baking soda",
-    "amount": 2,
-    "unit": "tsp"
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1/2"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Whey or buttermilk",
-    "amount": 2,
-    "unit": "cups"
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1/2"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Grapeseed or other neutral oil",
-    "amount": "1 1/3",
-    "unit": "cups"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1 1/2"
   },
   {
-    "recipe": "dressingcorn1",
-    "ingredient": "Egg",
-    "amount": 2
+    "cranberrygel1": "bean2",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1/2"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Celery",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1/2"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Medium yellow onion",
-    "amount": "3/4",
-    "unit": "cup"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Medium yellow onion",
+    "1.5": "1/2"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Garlic",
-    "amount": 3,
-    "unit": "cloves"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Mirin",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Fennel, small dice",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Mirin",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Chicken gizzards",
-    "amount": "1/3",
-    "unit": "lbs"
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Parsley",
+    "1.5": 2,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Extra-virgin olive oil",
-    "amount": "1/4",
-    "unit": "cup"
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Parsley",
+    "1.5": 2,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Black pepper",
-    "amount": "3/4",
-    "unit": "tsp"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Parsley",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Salt",
-    "amount": "1 1/2",
-    "unit": "tsp"
+    "cranberrygel1": "beangarnish1",
+    "Agar agar": "Parsley",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Sage",
-    "amount": 3,
-    "unit": "T"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Parsley",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Thyme",
-    "amount": 1,
-    "unit": "tsp"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Parsley",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Chicken stock",
-    "amount": "1 2/3",
-    "unit": "cups"
+    "cranberrygel1": "beangarnish2",
+    "Agar agar": "Parsley",
+    "1.5": 1,
+    "T": "T"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Egg",
-    "amount": 2
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Rind of Parmigiano-Reggiano",
+    "1.5": 4,
+    "T": "ounces"
   },
   {
-    "recipe": "dressing1",
-    "ingredient": "Grated Parmesan (optional)",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Rind of Parmigiano-Reggiano",
+    "1.5": 4,
+    "T": "ounces"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Jiffy cornbread mix",
-    "amount": 3,
-    "unit": "boxes"
+    "cranberrygel1": "gravysauce2",
+    "Agar agar": "Rosemary or thyme",
+    "1.5": 1,
+    "T": "sprig"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Celery",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Sachet d'espices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)",
+    "1.5": 3
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Medium yellow onion",
-    "amount": "3/4",
-    "unit": "cup"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Sage",
+    "1.5": 3,
+    "T": "T"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Garlic",
-    "amount": 3,
-    "unit": "cloves"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Sage",
+    "1.5": 3,
+    "T": "T"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Fennel",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Sake",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Chicken gizzards",
-    "amount": "1/3",
-    "unit": "lbs"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Sake",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Extra-virgin olive oil",
-    "amount": "1/4",
-    "unit": "cup"
+    "cranberrygel1": "bean1",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Black pepper",
-    "amount": "3/4",
-    "unit": "tsp"
+    "cranberrygel1": "beantruffle1",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Salt",
-    "amount": 1.5,
-    "unit": "tsp"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Sage",
-    "amount": 3,
-    "unit": "T"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Thyme",
-    "amount": 1,
-    "unit": "tsp"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Chicken stock",
-    "amount": 1,
-    "unit": "cups"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Chicken stock",
-    "amount": "1/3",
-    "unit": "cups"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Salt",
+    "1.5": 1.5,
+    "T": "tsp"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Egg",
-    "amount": 2
+    "cranberrygel1": "pie1",
+    "Agar agar": "Salt",
+    "1.5": "1/4",
+    "T": "tsp"
   },
   {
-    "recipe": "dressing2",
-    "ingredient": "Grated Parmesan (optional)",
-    "amount": 1,
-    "unit": "cup"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Salt"
   },
   {
-    "recipe": "cranberryjuice1",
-    "ingredient": "Fresh cranberries",
-    "amount": 4,
-    "unit": "cups"
+    "cranberrygel1": "gravysauce1",
+    "Agar agar": "Sherry vinegar or a fruit jam, such as black currant (optional)"
   },
   {
-    "recipe": "cranberryjuice1",
-    "ingredient": "Fresh orange juice",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "cranberryjuice1",
+    "Agar agar": "Simple syrup",
+    "1.5": "1/2",
+    "T": "cup"
   },
   {
-    "recipe": "cranberryjuice1",
-    "ingredient": "Lemon juice",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Small Yukon Gold potatoes",
+    "1.5": 2,
+    "T": "lbs"
   },
   {
-    "recipe": "cranberryjuice1",
-    "ingredient": "Simple syrup",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Small Yukon Gold potatoes",
+    "1.5": "2/3",
+    "T": "lbs"
   },
   {
-    "recipe": "cranberrygel1",
-    "ingredient": "Cranberry juice mixture",
-    "amount": 1,
-    "unit": "quart"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Small Yukon Gold potatoes",
+    "1.5": 2,
+    "T": "lbs"
   },
   {
-    "recipe": "cranberrygel1",
-    "ingredient": "Agar agar",
-    "amount": 1.5,
-    "unit": "T"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Small Yukon Gold potatoes",
+    "1.5": "2/3",
+    "T": "lbs"
   },
   {
-    "recipe": "cranberry2",
-    "ingredient": "Cranberry juice mixture",
-    "amount": 1,
-    "unit": "quart"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Soy sauce",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "cranberry2",
-    "ingredient": "Agar agar",
-    "amount": 1.5,
-    "unit": "T"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Soy sauce",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Whole cranberries",
-    "amount": 1,
-    "unit": "quart"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Stale brioche",
+    "1.5": "1/4",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Double-crust pie dough",
-    "amount": 1.25,
-    "unit": "cups"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Stale brioche",
+    "1.5": "1/4",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Cornstarch",
-    "amount": 2.5,
-    "unit": "tsp"
+    "cranberrygel1": "turkey1",
+    "Agar agar": "Sugar"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Freshly ground nutmeg"
+    "cranberrygel1": "potatoes1",
+    "Agar agar": "Sugar",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Salt",
-    "amount": "1/4",
-    "unit": "tsp"
+    "cranberrygel1": "potatoes2",
+    "Agar agar": "Sugar",
+    "1.5": "1/3",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Fresh orange zest or 1 T orange liquer",
-    "amount": "1/2",
-    "unit": "tsp"
+    "cranberrygel1": "pie1",
+    "Agar agar": "Sugar",
+    "1.5": 1.5,
+    "T": "tsp"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Chopped walnuts (optional)",
-    "amount": "1/2",
-    "unit": "cup"
+    "cranberrygel1": "pie2",
+    "Agar agar": "Sugar",
+    "1.5": "3/4",
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Double-crust pie dough",
-    "amount": 1,
-    "unit": "recipe"
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Sun-dried tomatoes",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Butter",
-    "amount": "1/4",
-    "unit": "cup"
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Sun-dried tomatoes",
+    "1.5": 1,
+    "T": "cup"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Sugar",
-    "amount": 1.5,
-    "unit": "tsp"
+    "cranberrygel1": "gravybase1",
+    "Agar agar": "Thyme",
+    "1.5": 2,
+    "T": "sprigs"
   },
   {
-    "recipe": "pie1",
-    "ingredient": "Egg",
-    "amount": 1
+    "cranberrygel1": "gravybase2",
+    "Agar agar": "Thyme",
+    "1.5": 2,
+    "T": "sprigs"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Double-crust pie dough",
-    "amount": 1,
-    "unit": "recipe"
+    "cranberrygel1": "bean2",
+    "Agar agar": "Thyme",
+    "1.5": 3,
+    "T": "tsp"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Whole cranberries, fresh or unthawed frozen, divided",
-    "amount": 2,
-    "unit": "cups"
+    "cranberrygel1": "dressing1",
+    "Agar agar": "Thyme",
+    "1.5": 1,
+    "T": "tsp"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Sugar",
-    "amount": "3/4",
-    "unit": "cup"
+    "cranberrygel1": "dressing2",
+    "Agar agar": "Thyme",
+    "1.5": 1,
+    "T": "tsp"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Cornstarch",
-    "amount": 1.25,
-    "unit": "tsp"
+    "cranberrygel1": "beantruffle1",
+    "Agar agar": "Truffle oil",
+    "1.5": 1,
+    "T": "oz"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Freshly ground nutmeg"
+    "cranberrygel1": "beangarnish1",
+    "Agar agar": "Truffle oil",
+    "1.5": 1,
+    "T": "oz"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Salt"
+    "cranberrygel1": "beangarnish2",
+    "Agar agar": "Truffle oil",
+    "1.5": 1,
+    "T": "oz"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Fresh orange zest",
-    "amount": "1/2",
-    "unit": "tsp"
+    "cranberrygel1": "dressingcorn1",
+    "Agar agar": "Whey or buttermilk",
+    "1.5": 2,
+    "T": "cups"
   },
   {
-    "recipe": "pie2",
-    "ingredient": "Egg",
-    "amount": 1
+    "cranberrygel1": "pie1",
+    "Agar agar": "Whole cranberries",
+    "1.5": 4,
+    "T": "cups"
+  },
+  {
+    "cranberrygel1": "pie2",
+    "Agar agar": "Whole cranberries, fresh or unthawed frozen, divided",
+    "1.5": 2,
+    "T": "cups"
+  },
+  {
+    "cranberrygel1": "beanfinish1",
+    "Agar agar": "Wild mushrooms",
+    "1.5": 1,
+    "T": "cup"
+  },
+  {
+    "cranberrygel1": "beanfinish2",
+    "Agar agar": "Wild mushrooms",
+    "1.5": 1,
+    "T": "cup"
   }
 ]

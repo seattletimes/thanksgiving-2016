@@ -16,7 +16,7 @@ To really go all in, start by making your own cranberry juice. The juice can be 
   <li>Pass the mixture through a fine strainer, and chill the finished juice in the refrigerator. 
 </ol>
 
-<div class="strong">To make the gel:</div>
+<div class="strong">For the gel:</div>
 <ul>
   <li>1 quart of cranberry juice mixture
   <li>1.5 tablespoons agar agar (or follow the instructions on the package)

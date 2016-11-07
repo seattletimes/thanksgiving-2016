@@ -1,5 +1,5 @@
 require("./lib/social");
-// require("./lib/ads");
+require("./lib/ads");
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
@@ -34,9 +34,9 @@ qsa(".basket-button input").forEach(function(b) {
       var ingredients = ingredientData.filter(function(i) {
         return i.recipe == r;
       });
+      console.log(ingredientData, ingredients)
       ingredients.forEach(function(i) {
         if (!allIngredients[i.ingredient]) {
-          console.log(eval(i.amount))
           allIngredients[i.ingredient] = {
             amount: eval(i.amount),
             unit: i.unit,
@@ -83,7 +83,7 @@ var scroll = function(a) {
 qsa(".menu a").forEach(function(a) {
   scroll(a);
 });
-qsa("a.top").forEach(function(a) {
+qsa("a.top-button").forEach(function(a) {
   scroll(a);
 });
 qsa("a.basket-link").forEach(function(a) {

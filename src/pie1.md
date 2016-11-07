@@ -10,7 +10,7 @@
   <li>¼ teaspoon salt
   <li>½ teaspoon fresh orange zest or 1 tablespoon orange liqueur
   <li>½ cup chopped walnuts (optional)
-  <li>1 recipe double-crust pie dough (pre-made, or your favorite will work, or make Kate McDermott’s recipe at artofthepie.com/1)
+  <li>1 recipe double-crust pie dough (pre-made, or your favorite will work, or make <a href="http://www.artofthepie.com/1">Kate McDermott’s recipe</a>)
   <li>1 knob butter, the size of a small walnut, cut into small pieces for dotting the top of the filling
   <li>1-2 teaspoons sugar, for sprinkling on top of the pie
   <li>Egg wash
