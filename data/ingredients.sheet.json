@@ -77,12 +77,12 @@
   },
   {
     "recipe": "gravybase1",
-    "ingredient": "Bone-in chicken thighs",
+    "ingredient": "Bone-in chicken thigh",
     "amount": 2
   },
   {
     "recipe": "gravybase2",
-    "ingredient": "Bone-in chicken thighs",
+    "ingredient": "Bone-in chicken thigh",
     "amount": 2
   },
   {
@@ -129,7 +129,7 @@
   },
   {
     "recipe": "bean1",
-    "ingredient": "Carrots",
+    "ingredient": "Carrot",
     "amount": 3
   },
   {
@@ -626,7 +626,7 @@
   },
   {
     "recipe": "bean1",
-    "ingredient": "Sachet d'espices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)",
+    "ingredient": "Sachets d'espices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)",
     "amount": 3
   },
   {

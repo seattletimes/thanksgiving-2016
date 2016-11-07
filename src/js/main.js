@@ -35,11 +35,12 @@ qsa(".basket-button input").forEach(function(b) {
         return i.recipe == r;
       });
       ingredients.forEach(function(i) {
+        console.log(i.ingredient)
         var ingredientLabel = i.ingredient;
         var unitLabel = i.unit;
-        if (i.amount > 1 && !i.unit) {
+        if (i.amount > 1 && !i.unit && i.ingredient.indexOf("Sachet") < 0) {
           ingredientLabel = i.ingredient + "s";
-        } else if (i.amount > 1 && (i.unit == "cup" || i.unit == "recipe")) {
+        } else if (i.amount > 1 && (i.unit == "cup" || i.unit == "recipe" || i.unit == "lb")) {
           unitLabel = i.unit + "s";
         }
         if (!allIngredients[i.ingredient]) {
@@ -50,9 +51,9 @@ qsa(".basket-button input").forEach(function(b) {
           };
         } else if (i.amount) {
           allIngredients[i.ingredient].amount += i.amount;
-          if (allIngredients[i.ingredient].amount > 1 && !i.unit) {
+          if (allIngredients[i.ingredient].amount > 1 && !i.unit && i.ingredient.indexOf("Sachet") < 0) {
             allIngredients[i.ingredient].ingredient = i.ingredient + "s";
-          } else if (allIngredients[i.ingredient].amount > 1 && (i.unit == "cup" || i.unit == "recipe")) {
+          } else if (allIngredients[i.ingredient].amount > 1 && (i.unit == "cup" || i.unit == "recipe" || i.unit == "lb")) {
             allIngredients[i.ingredient].unit = i.unit + "s";
           }
         }
