@@ -34,16 +34,27 @@ qsa(".basket-button input").forEach(function(b) {
       var ingredients = ingredientData.filter(function(i) {
         return i.recipe == r;
       });
-      console.log(ingredientData, ingredients)
       ingredients.forEach(function(i) {
+        var ingredientLabel = i.ingredient;
+        var unitLabel = i.unit;
+        if (i.amount > 1 && !i.unit) {
+          ingredientLabel = i.ingredient + "s";
+        } else if (i.amount > 1 && (i.unit == "cup" || i.unit == "recipe")) {
+          unitLabel = i.unit + "s";
+        }
         if (!allIngredients[i.ingredient]) {
           allIngredients[i.ingredient] = {
-            amount: eval(i.amount),
-            unit: i.unit,
-            ingredient: i.ingredient
+            amount: i.amount,
+            unit: unitLabel,
+            ingredient: ingredientLabel
           };
-        } else {
-          allIngredients[i.ingredient].amount += eval(i.amount);
+        } else if (i.amount) {
+          allIngredients[i.ingredient].amount += i.amount;
+          if (allIngredients[i.ingredient].amount > 1 && !i.unit) {
+            allIngredients[i.ingredient].ingredient = i.ingredient + "s";
+          } else if (allIngredients[i.ingredient].amount > 1 && (i.unit == "cup" || i.unit == "recipe")) {
+            allIngredients[i.ingredient].unit = i.unit + "s";
+          }
         }
       });
     });
@@ -60,7 +71,29 @@ qsa(".basket-button input").forEach(function(b) {
       if (allIngredients[ing].amount) ingredient = allIngredients[ing].ingredient.toLowerCase();
 
       var language = "";
-      if (allIngredients[ing].amount) language += allIngredients[ing].amount + " ";
+      if (allIngredients[ing].amount) {
+        var fraction = allIngredients[ing].amount.toString();
+        if (fraction.indexOf(".") > -1) {
+          var split = fraction.split(".");
+          var first = split[0];
+          var second = split[1];
+
+          if (second == "25") {
+            second = "¼";
+          } else if (second == "5") {
+            second = "½";
+          } else if (second == "75") {
+            second = "¾";
+          }
+
+          if (first != "0") {
+            fraction = first + second;
+          } else {
+            fraction = second;
+          }
+        }
+        language +=  fraction + " ";
+      }
       if (allIngredients[ing].unit) language += allIngredients[ing].unit + " ";
       language += ingredient;
       item.innerHTML = language;
@@ -84,7 +117,6 @@ qsa(".menu a").forEach(function(a) {
   scroll(a);
 });
 qsa("a.top-button").forEach(function(a) {
-  console.log("hello")
   scroll(a);
 });
 qsa("a.basket-link").forEach(function(a) {

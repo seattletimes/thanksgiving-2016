@@ -2,7 +2,7 @@
  
 In France, these are known as gallettes; in Italy, crostata. The amount and kind of filling you put inside doesn’t have to be exact.
  
-<em>Makes 2 Tarts</em>
+<em>Makes 2 tarts</em>
  
 <ul>
   <li>1 recipe double-crust pie dough (pre-made, or your favorite will work, or make <a href="http://www.artofthepie.com/1">Kate McDermott’s recipe</a>)
