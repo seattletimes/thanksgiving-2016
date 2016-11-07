@@ -6,6 +6,23 @@ require("component-responsive-frame/child");
 var animateScroll = require("./lib/animateScroll");
 var qsa = require("./lib/qsa.js");
 
+var recipeLookup = {
+  turkey1: "Spatchcocked Turkey (going for it)",
+  turkey2: "Spatchcocked Turkey (simplified)",
+  gravy1: "Gravy (going for it)",
+  gravy2: "Gravy (simplified)",
+  beans1: "Heirloom Bean Cassoulet (going for it)",
+  beans2: "Heirloom Bean Cassoulet (simplified)",
+  potatoes1: "Soy-Glazed Potatoes (going for it)",
+  potatoes2: "Soy-Glazed Potatoes (simplified)",
+  cornbread1: "Cornbread Dressing (going for it)",
+  cornbread2: "Cornbread Dressing (simplified)",
+  gel1: "Cranberry Gel (going for it)",
+  gel2: "Cranberry Gel (simplified)",
+  pie1: "Cranberry Pie (going for it)",
+  pie2: "Cranberry Pie (simplified)"
+};
+
 qsa(".tabs div").forEach(function(t) {
   t.addEventListener("click", function() {
     var recipe = t.closest("section").getAttribute("id");
@@ -26,8 +43,10 @@ qsa(".tabs div").forEach(function(t) {
 qsa(".basket-button input").forEach(function(b) {
   b.addEventListener("click", function() {
     var recipes = [];
+    var recipeLabels = [];
     qsa("input:checked").forEach(function(i) {
       recipes.push(...i.getAttribute("data-recipe").split(" "));
+      recipeLabels.push(recipeLookup[i.getAttribute("id")]);
     });
     var allIngredients = {};
     recipes.forEach(function(r) {
@@ -35,7 +54,6 @@ qsa(".basket-button input").forEach(function(b) {
         return i.recipe == r;
       });
       ingredients.forEach(function(i) {
-        console.log(i.ingredient)
         var ingredientLabel = i.ingredient;
         var unitLabel = i.unit;
         if (i.amount > 1 && !i.unit && i.ingredient.indexOf("Sachet") < 0) {
@@ -65,6 +83,19 @@ qsa(".basket-button input").forEach(function(b) {
       document.querySelector(".empty").classList.add("hidden");
     }
     document.querySelector(".basket ul").innerHTML = "";
+
+    var recipeList = document.querySelector(".recipe-list");
+    recipeList.innerHTML = "";
+    if (recipeLabels.length > 0) {
+      recipeList.innerHTML = "Ingredients you will need to make: ";
+      recipeLabels.forEach(function(r, i) {
+        if (i == 0) {
+          recipeList.innerHTML += r;
+        } else {
+          recipeList.innerHTML += ", " + r;
+        }
+      });
+    }
 
     for (var ing in allIngredients) {
       var item = document.createElement("li");
