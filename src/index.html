@@ -12,11 +12,12 @@
 
     <a href="#list" class="basket-link"><div><i class="fa fa-list" aria-hidden="true"></i> VIEW SHOPPING LIST</div></a>
 
-    <div class="header"><img src="./assets/header_cropped2.jpg"></div>
+    <div class="header"><img class="desktop" src="./assets/header_cropped2.jpg"><img class="mobile" src="./assets/header.jpg"></div>
     <div class="hed">The Imperfect Thanksgiving</div>
     <div class="chatter">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu venenatis est. Vivamus a molestie mi. Nulla aliquam fermentum bibendum. Vivamus volutpat elit a maximus pretium. In sit amet dui mollis, volutpat quam eget, aliquam mi. Fusce bibendum, orci quis tincidunt mattis, metus velit laoreet sapien, sed volutpat libero risus at lectus.
-      <p><em>Photos by tktk</em>
+
+      <p class="photography"><em>Photos by Jackie Donnelly</em></p>
     </div>
 
     <div class="inner">
@@ -199,12 +200,20 @@
         Teasers
         <p>Teasers
         <p>Teasers
+
+        <div class="credits">
+          <p>
+            <div><em>Photography:</em> Jackie Donnelly</div>
+            <div><em>Design and development:</em> Audrey Carlsen</div>
+            <div><em>Project editor:</em> Paige Collins</div>
+          <p>Originally published November 9, 2016
+        </div>
+        <%= t.include("./partials/_ad.html", { type: "tall" }) %>
       </div>
     </div>
 
     <%= t.include("./partials/_ad.html", { type: "bannerBottom" }) %>
 
-    <div class="copyright"><em>Originally published November 9, 2016.</em></div>
     <div class="copyright">Copyright 2016 The Seattle Times</div>
 
     <%= t.include("./partials/_navBottom.html") %>

@@ -84,6 +84,7 @@ qsa(".menu a").forEach(function(a) {
   scroll(a);
 });
 qsa("a.top-button").forEach(function(a) {
+  console.log("hello")
   scroll(a);
 });
 qsa("a.basket-link").forEach(function(a) {
