@@ -19,7 +19,7 @@
   <li>With a rubber spatula, fold the buttermilk mixture into the cornmeal mixture, until there are no dry lumps.
   <li>Spoon or pipe the batter into the cavities of the corn pan, or pour into the skillet.
   <li>Bake on convection mode about 11 minutes (if using corn pan) or 18 to 20 minutes (if using skillet), or until the cornbread is lightly golden brown on top. Bake slightly longer if not using a convection oven. Cool. 
-  <li>Crumble cornbread into large chunks. Dry in a 350 degree oven for 10 minutes. Cool. 
+  <li>Crumble cornbread into large chunks. Dry in a 350-degree oven for 10 minutes. Cool. 
 </ol>
 
 <div class="strong">For the dressing:</div>
@@ -34,7 +34,7 @@
   <li>1 ½ teaspoons salt
   <li>3 tablespoons fresh sage, chopped
   <li>1 teaspoon thyme, picked
-  <li>1 ⅔ cups chicken stock (substitution option: vegetable) 
+  <li>1 ⅔ cups chicken stock (substitution option: vegetable stock) 
   <li>2 eggs
   <li>1 cup grated Parmesan (optional)
 </ul>

@@ -16,7 +16,7 @@
 </ul>
 
 <ol>
-  <li>Make cornbread as directed on box. Cool on rack. Crumble cornbread into large chunks. Dry in a 350 degree oven for 10 minutes. Cool.
+  <li>Make cornbread as directed on box. Cool on rack. Crumble cornbread into large chunks. Dry in a 350-degree oven for 10 minutes. Cool.
   <li>Place dried cornbread in large bowl.
   <li>In pan, saute all the vegetables, gizzards, salt, and pepper with the olive oil until tender. Add in chopped sage and picked thyme in final stage of cooking. If using mushrooms as a substitution, cook until the mushrooms have released all moisture. 
   <li>In a separate bowl, beat stock and eggs and pour over cornbread. Add sautéed vegetables and gently mix until combined.

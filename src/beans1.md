@@ -20,7 +20,7 @@
   <li>Soak beans overnight, in separate bowls.
   <li>Cook them separately in deep pans with twice as much liquid to beans. You want to cook them separately because each variety will be a slightly different size and you want to ensure perfect doneness.
   <li>Cover beans with water, and add carrot, celery, onion, garlic and sachet to each pan. Cover with foil and cook in oven at 300 degrees, about 2 hours, or until the beans are completely tender. 
-  <li>When fully cooked, season beans with salt and pepper, to taste, while leaving them in the liquid. (You have to season beans after they’re cooked. If you do it beforehand, they will remain crunchy.)
+  <li>When fully cooked, season beans with salt and pepper to taste, while leaving them in the liquid. (You have to season beans after they’re cooked. If you do it beforehand, they will remain crunchy.)
   <li>Strain beans, reserving liquid, and combine all three varieties. Smoke beans with apple wood chips in a hot smoker for 5 minutes on medium heat. (If you don’t own a smoker, stir in small amounts of liquid smoke in batches ¼ teaspoon or less at a time, until you reach the desired flavor. Liquid smoke is strong; don’t overdo it!)
   <li>Note: The prepared beans will hold in the refrigerator for at least 5 days. Keep them in their cooking liquid, to keep them from drying out.
 </ol>

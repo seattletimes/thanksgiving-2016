@@ -1,4 +1,4 @@
-To really go all in, start by making your own cranberry juice. The juice can be sweetened to your liking and used for this, and cocktails if you have any leftovers. 
+To really go all in, start by making your own cranberry juice. The juice can be sweetened to your liking and used for this, and then cocktails if you have any leftovers. 
 
 <div class="strong">For the cranberry juice:</div>
 <ul>
@@ -19,11 +19,11 @@ To really go all in, start by making your own cranberry juice. The juice can be 
 <div class="strong">For the gel:</div>
 <ul>
   <li>1 quart of cranberry juice mixture
-  <li>1.5 tablespoons agar agar (or follow the instructions on the package)
+  <li>1 ½ tablespoons agar agar (or follow the instructions on the package)
 </ul>
  
 <ol>
-  <li>Place 1 quart of cranberry mixture in stainless steel pot. Whisk in agar until fully emulsified. Slowly bring to a simmer, and simmer for 3 minutes. 
+  <li>Place 1 quart of cranberry mixture in stainless steel pot. Whisk in agar agar until fully emulsified. Slowly bring to a simmer, and simmer for 3 minutes. 
   <li>Pour hot mixture in a pan to cool and set, about an hour. 
   <li>Once the juice has fully set, it should be like hard Jell-O. Place it in a blender in chunks and blend until a smooth gel is formed. If it is hard to spin, add a touch of the juice mixture to the blender to slightly thin it out. 
   <li>Once the gel is very smooth, place it in a squeeze bottle. Garnish your turkey and stuffing plate with dots of cranberry fluid.
