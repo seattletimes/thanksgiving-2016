@@ -9,7 +9,7 @@
   <li>⅔ cup heirloom beans, dried (a third variety of your choice)
   <li>3 carrots (peel, leave whole, cut off tops)
   <li>3 celery stalks (leave whole, pick off leaves)
-  <li>1.5 yellow onions (peeled, cut in half and made into three skewers, so they don’t separate and float around)
+  <li>1 ½ yellow onions (peeled, cut in half and made into three skewers, so they don’t separate and float around)
   <li>3 sachet d’epices (bay leaf, thyme, parsley, black peppercorn, coriander, garlic)
   <li>Salt
   <li>Pepper
@@ -47,7 +47,7 @@
   <li>2 cloves garlic, minced
   <li>1 cup wild mushrooms, julienned (whatever you like: oyster mushrooms, chanterelles, trumpets, etc.) 
   <li>1 tablespoon finely chopped chives
-  <li> tablespoon finely chopped parsley
+  <li>1 tablespoon finely chopped parsley
   <li>1 cup sun-dried tomatoes, julienned
   <li>Salt
   <li>Black pepper

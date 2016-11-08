@@ -1,4 +1,4 @@
-When you buy the turkey, have your butcher butterfly it for you. (If they cannot, for whatever reason, see instructions in the “go for it” version of this recipe.)
+When you buy the turkey, have your butcher butterfly it for you. (If they cannot, for whatever reason, see instructions in the full version of this recipe.)
 
 <ul>
   <li>1 fresh turkey
