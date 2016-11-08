@@ -23,7 +23,7 @@
   <li>1 medium shallot, finely minced
   <li>1 cup Marsala, red wine, dry sherry or anything of your choosing (this could be a fruit juice; if substituting a liquor like bourbon, cut the quantity in half)
   <li>Reduced brodo from above
-  <li>1 stick unsalted butter, cold, cubed butter slightly softened
+  <li>1 stick unsalted butter, cold, cubed, slightly softened
   <li>Sherry vinegar or a fruit jam, such as black currant (optional)
 </ul>
  
@@ -32,7 +32,7 @@
   <li>Sweat shallots 2-3 minutes until tender but not colored. Lower heat, if necessary.
   <li>Deglaze with the wine or liquid of choice and simmer until the liquid reduces by a third. Add the reduced brodo and cook until consistency is thickened slightly, to form a sauce.
   <li>Turn off heat and whisk in 1 tablespoon of butter at a time. Taste and continue adding more butter if desired.
-  <li>Optional: At this time, a dash of sherry vinegar can be added to enliven the sauce or a dollop of a fruit puree, such as black or red currant jam to complement the roasted bird. This is your discretion. 
+  <li>Optional: At this time, a dash of sherry vinegar or a dollop of a fruit puree, such as black or red currant jam, can be added to enliven the sauce. 
   <li>This sauce can be reheated gently (no boiling) if any is leftover.
 </ol>
 

@@ -11,7 +11,7 @@ We always brine our birds first, which is the process of creating a salt solutio
 <ol>
   <li>We use a 3 percent salt and 1.5 percent sugar by weight ratio. More simply put, for every 100 grams of water, we dissolve 3 grams of salt and 1.5 grams of sugar at a boil, then cool the solution.
  
-  <li>Depending of the size of your bird, you will need a large container (like a clean 5 gallon bucket). Place the bird in the container, and place enough of the brine to cover the turkey (make sure it’s cold). Keep the turkey in the brine, refrigerated, for 24-36 hours, longer if it's a larger turkey. Remove from brine and let it air dry in the refrigerator overnight (so be sure to start the process one day ahead). 
+  <li>Depending of the size of your bird, you will need a large container (like a clean 5-gallon bucket). Place the bird in the container, and place enough of the brine to cover the turkey (make sure the brine is cold). Keep the turkey in the brine, refrigerated, for 24-36 hours, longer if it's a larger turkey. Remove from brine and let it air dry in the refrigerator overnight (so be sure to start the process one day ahead). 
  
   <li>Pull the turkey a few hours ahead of roasting and place on the kitchen counter to allow the turkey to temper, which will allow more even cooking.
 </ol>
