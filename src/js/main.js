@@ -1,4 +1,4 @@
-require("./lib/social");
+var social = require("./lib/social");
 require("./lib/ads");
 // var track = require("./lib/tracking");
 
@@ -21,6 +21,36 @@ var recipeLookup = {
   gel2: "Cranberry Gel (simplified)",
   pie1: "Cranberry Pie (going for it)",
   pie2: "Cranberry Pie (simplified)"
+};
+
+var socialLookup = {
+  turkey: {
+    title: "Spatchcocked Turkey",
+    img: "turkey.jpg"
+  },
+  gravy: {
+    title: "Gravy",
+    img: "gravy.jpg"
+  },
+  beans: {
+    title: "Heirloom Bean Cassoulet",
+    img: "beans.jpg"
+  },
+  potatoes: {
+    title: "Soy-Glazed Potatoes",
+    img: "potatoes.jpg"
+  },
+  dressing: {
+    title: "Cornbread Dressing",
+    img: "dressing.jpg"
+  },
+  cranberries: {
+    title: "Cranberry Gel"
+  },
+  pie: {
+    title: "Cranberry Pie",
+    img: "pie.jpg"
+  }
 };
 
 qsa(".tabs div").forEach(function(t) {
@@ -153,4 +183,13 @@ qsa("a.top-button").forEach(function(a) {
 });
 qsa("a.basket-link").forEach(function(a) {
   scroll(a);
+});
+
+qsa(".recipe-share").forEach(function(s) {
+  var id = s.getAttribute('data-id');
+  var href = window.location.href.replace(/#.*$/, "");
+  var s = social.makeShare(`.recipe-share[data-id="${id}"]`, "bottom right", href + "#" + id);
+  console.log(s)
+  s.config.title = "The Imperfect Thanksgiving: " + socialLookup[id].title;
+  s.config.image = `assets/${socialLookup[id].img || "header.jpg"}`;
 });
