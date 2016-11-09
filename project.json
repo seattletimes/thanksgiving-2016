@@ -17,5 +17,5 @@
   "image": "assets/header.jpg",
   "sheets": ["1J37qpcS-_ROn4rm88YL1n5gQGLTKdnXaioKMz-INb1g"],
   "production": true,
-  "embedded": true
+  "embedded": false
 }
