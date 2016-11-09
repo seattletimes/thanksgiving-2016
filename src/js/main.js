@@ -192,8 +192,8 @@ qsa(".recipe-share").forEach(function(s) {
   var id = s.getAttribute('data-id');
   var href = window.location.href.replace(/#.*$/, "");
   var s = social.makeShare(`.recipe-share[data-id="${id}"]`, "bottom right", href + "#" + id);
-  s.config.title = "The Imperfect Thanksgiving: " + socialLookup[id].title;
-  s.config.image = `assets/${socialLookup[id].img || "header.jpg"}`;
+  // s.config.title = "The Imperfect Thanksgiving: " + socialLookup[id].title;
+  // s.config.image = `assets/${socialLookup[id].img || "header.jpg"}`;
 });
 
 document.querySelector(".print-button").addEventListener("click", function() {
