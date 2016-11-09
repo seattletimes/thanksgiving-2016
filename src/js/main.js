@@ -1,5 +1,6 @@
 var social = require("./lib/social");
 require("./lib/ads");
+var closest = require("./lib/closest");
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
@@ -7,20 +8,20 @@ var animateScroll = require("./lib/animateScroll");
 var qsa = require("./lib/qsa.js");
 
 var recipeLookup = {
-  turkey1: "Spatchcocked Turkey (going for it)",
-  turkey2: "Spatchcocked Turkey (simplified)",
-  gravy1: "Gravy (going for it)",
-  gravy2: "Gravy (simplified)",
-  beans1: "Heirloom Bean Cassoulet (going for it)",
-  beans2: "Heirloom Bean Cassoulet (simplified)",
-  potatoes1: "Soy-Glazed Potatoes (going for it)",
-  potatoes2: "Soy-Glazed Potatoes (simplified)",
-  cornbread1: "Cornbread Dressing (going for it)",
-  cornbread2: "Cornbread Dressing (simplified)",
-  gel1: "Cranberry Gel (going for it)",
-  gel2: "Cranberry Gel (simplified)",
-  pie1: "Cranberry Pie (going for it)",
-  pie2: "Cranberry Pie (simplified)"
+  turkey1: "Spatchcocked Turkey (full version)",
+  turkey2: "Spatchcocked Turkey (simplified version)",
+  gravy1: "Gravy (full version)",
+  gravy2: "Gravy (simplified version)",
+  beans1: "Heirloom Bean Cassoulet (full version)",
+  beans2: "Heirloom Bean Cassoulet (simplified version)",
+  potatoes1: "Soy-Glazed Potatoes (full version)",
+  potatoes2: "Soy-Glazed Potatoes (simplified version)",
+  cornbread1: "Cornbread Dressing (full version)",
+  cornbread2: "Cornbread Dressing (simplified version)",
+  gel1: "Cranberry Gel (full version)",
+  gel2: "Cranberry Gel (simplified version)",
+  pie1: "Cranberry Pie (full version)",
+  pie2: "Rustic Cranberry Tart (simplified version)"
 };
 
 var socialLookup = {
@@ -53,9 +54,11 @@ var socialLookup = {
   }
 };
 
+var pluralize = ["cup", "recipe", "lb", "quart"];
+
 qsa(".tabs div").forEach(function(t) {
   t.addEventListener("click", function() {
-    var recipe = t.closest("section").getAttribute("id");
+    var recipe = closest(t, "section").getAttribute("id");
     if (!t.classList.contains("selected")) {
       document.querySelector(`#${recipe} .selected`).classList.remove("selected");
       t.classList.add("selected");
@@ -88,7 +91,7 @@ qsa(".basket-button input").forEach(function(b) {
         var unitLabel = i.unit;
         if (i.amount > 1 && !i.unit && i.ingredient.indexOf("Sachet") < 0) {
           ingredientLabel = i.ingredient + "s";
-        } else if (i.amount > 1 && (i.unit == "cup" || i.unit == "recipe" || i.unit == "lb")) {
+        } else if (i.amount > 1 && pluralize.indexOf(i.unit) > -1) {
           unitLabel = i.unit + "s";
         }
         if (!allIngredients[i.ingredient]) {
@@ -101,7 +104,7 @@ qsa(".basket-button input").forEach(function(b) {
           allIngredients[i.ingredient].amount += i.amount;
           if (allIngredients[i.ingredient].amount > 1 && !i.unit && i.ingredient.indexOf("Sachet") < 0) {
             allIngredients[i.ingredient].ingredient = i.ingredient + "s";
-          } else if (allIngredients[i.ingredient].amount > 1 && (i.unit == "cup" || i.unit == "recipe" || i.unit == "lb")) {
+          } else if (allIngredients[i.ingredient].amount > 1 && pluralize.indexOf(i.unit) > -1) {
             allIngredients[i.ingredient].unit = i.unit + "s";
           }
         }

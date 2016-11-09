@@ -53,15 +53,11 @@
   },
   {
     "recipe": "dressing1",
-    "ingredient": "Black pepper",
-    "amount": 1,
-    "unit": "tsp"
+    "ingredient": "Black pepper"
   },
   {
     "recipe": "dressing2",
-    "ingredient": "Black pepper",
-    "amount": 1,
-    "unit": "tsp"
+    "ingredient": "Black pepper"
   },
   {
     "recipe": "beanfinish2",
@@ -238,13 +234,13 @@
     "recipe": "cranberrygel1",
     "ingredient": "Cranberry juice mixture",
     "amount": 1,
-    "unit": "qt"
+    "unit": "quart"
   },
   {
     "recipe": "cranberry2",
     "ingredient": "Cranberry juice mixture",
     "amount": 1,
-    "unit": "qt"
+    "unit": "quart"
   },
   {
     "recipe": "potatoes1",
@@ -329,12 +325,6 @@
     "recipe": "dressingcorn1",
     "ingredient": "Fine or medium-grind cornmeal",
     "amount": 1,
-    "unit": "cup"
-  },
-  {
-    "recipe": "cranberryjuice1",
-    "ingredient": "Fresh cranberries",
-    "amount": 4,
     "unit": "cup"
   },
   {
@@ -465,7 +455,9 @@
   },
   {
     "recipe": "turkey1",
-    "ingredient": "Kosher salt"
+    "ingredient": "Kosher salt",
+    "amount": 3,
+    "unit": "cup"
   },
   {
     "recipe": "turkey2",
@@ -473,9 +465,7 @@
   },
   {
     "recipe": "dressingcorn1",
-    "ingredient": "Kosher salt",
-    "amount": 1,
-    "unit": "tsp"
+    "ingredient": "Kosher salt"
   },
   {
     "recipe": "cranberryjuice1",
@@ -566,45 +556,31 @@
   },
   {
     "recipe": "gravybase1",
-    "ingredient": "Parsley",
-    "amount": 2,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "gravybase2",
-    "ingredient": "Parsley",
-    "amount": 2,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "beanfinish1",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "beangarnish1",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "bean2",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "beanfinish2",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "beangarnish2",
-    "ingredient": "Parsley",
-    "amount": 1,
-    "unit": "tbsp"
+    "ingredient": "Parsley"
   },
   {
     "recipe": "gravybase1",
@@ -620,9 +596,7 @@
   },
   {
     "recipe": "gravysauce2",
-    "ingredient": "Rosemary or thyme",
-    "amount": 1,
-    "unit": "sprig"
+    "ingredient": "Rosemary or thyme"
   },
   {
     "recipe": "bean1",
@@ -679,15 +653,11 @@
   },
   {
     "recipe": "dressing2",
-    "ingredient": "Salt",
-    "amount": 1.5,
-    "unit": "tsp"
+    "ingredient": "Salt"
   },
   {
     "recipe": "pie1",
-    "ingredient": "Salt",
-    "amount": 0.25,
-    "unit": "tsp"
+    "ingredient": "Salt"
   },
   {
     "recipe": "pie2",
@@ -834,14 +804,20 @@
     "unit": "cup"
   },
   {
+    "recipe": "cranberryjuice1",
+    "ingredient": "Whole, fresh cranberries",
+    "amount": 4,
+    "unit": "cup"
+  },
+  {
     "recipe": "pie1",
-    "ingredient": "Whole cranberries",
+    "ingredient": "Whole, fresh cranberries",
     "amount": 4,
     "unit": "cup"
   },
   {
     "recipe": "pie2",
-    "ingredient": "Whole cranberries",
+    "ingredient": "Whole, fresh cranberries",
     "amount": 2,
     "unit": "cup"
   },

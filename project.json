@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2016/imperfect-holiday"
     }
   },
-  "title": "The Imperfect Holiday",
-  "description": "",
+  "title": "The Imperfect Holiday: Recipes from top chefs",
+  "description": "This Thanksgiving, something will go wrong. Something may spill. Disagreements might occur. A dish may not turn out just right. And you know what, everything will be all right.",
   "url": "",
   "slug": "",
   "tags": [],
   "image": "assets/header.jpg",
   "sheets": ["1J37qpcS-_ROn4rm88YL1n5gQGLTKdnXaioKMz-INb1g"],
-  "production": false,
+  "production": true,
   "embedded": true
 }
